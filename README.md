@@ -19,7 +19,7 @@
 </td>
 </tr>
 </table>
-<h3>700+ logical recipes, Stonecutter expansion, and some vanilla rebalancing for a seamless QoL experience..</h3>
+<h3>700+ logical recipes, Stonecutter expansion, and some vanilla rebalancing for a seamless QoL experience.</h3>
 <h2><img align="center" src="https://github.com/iluxa69/craftcore/raw/main/_assets/sprites/Crafting_Table_JE4_BE3.png" width="32" alt="Crafting Table"> New Recipes</h2>
 <details>
 <summary><img align="center" src="https://github.com/iluxa69/craftcore/raw/main/_assets/sprites/Chainmail_Armor_JE2_BE2.png" width="32" alt="Chainmail Armor"> Chainmail Armor</summary>
