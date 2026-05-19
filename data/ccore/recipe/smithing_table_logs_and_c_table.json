@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "smithing_tables",
+    "key": {
+        "L": "#ccore:logs_with_c_table_crafting",
+        "I": "minecraft:iron_ingot"
+    },
+    "pattern": [
+        "II",
+        "L "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:smithing_table"
+    }
+}

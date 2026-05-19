@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "chest_boat",
+    "key": {
+        "L": "#minecraft:logs",
+        "P": "minecraft:oak_planks"
+    },
+    "pattern": [
+        " L ",
+        "PLP",
+        "PPP"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:oak_chest_boat"
+    }
+}

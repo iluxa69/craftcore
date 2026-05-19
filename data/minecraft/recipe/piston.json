@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "pistons",
+    "key": {
+        "S": "#ccore:stone_crafting_redstone",
+        "R": "minecraft:redstone",
+        "T": "#minecraft:planks",
+        "X": "minecraft:iron_ingot"
+    },
+    "pattern": [
+        "TTT",
+        "SXS",
+        "SRS"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:piston"
+    }
+}

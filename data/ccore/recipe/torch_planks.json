@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "torches",
+    "key": {
+        "C": "#minecraft:coals",
+        "P": "#minecraft:planks"
+    },
+    "pattern": [
+        "CC",
+        " P"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:torch"
+    }
+}

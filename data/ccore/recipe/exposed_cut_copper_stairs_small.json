@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "exposed_cut_copper_stairs",
+    "key": {
+        "#": "minecraft:exposed_cut_copper"
+    },
+    "pattern": [
+        "#  ",
+        "## "
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:exposed_cut_copper_stairs"
+    }
+}

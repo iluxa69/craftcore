@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "/": "minecraft:stick",
+        "_": "#ccore:stone_smooth_slab_crafting_materials"
+    },
+    "pattern": [
+        "///",
+        " / ",
+        "/_/"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:armor_stand"
+    }
+}

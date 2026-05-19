@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "#ccore:obsidians_craft",
+        "B": "#minecraft:bookshelf_books",
+        "D": "minecraft:diamond"
+    },
+    "pattern": [
+        " B ",
+        "D#D",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:enchanting_table"
+    }
+}

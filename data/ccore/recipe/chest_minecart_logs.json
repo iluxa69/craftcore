@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "chest_minecarts",
+    "key": {
+        "I": "minecraft:iron_ingot",
+        "L": "#minecraft:logs"
+    },
+    "pattern": [
+        " L ",
+        "ILI",
+        "III"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:chest_minecart"
+    }
+}

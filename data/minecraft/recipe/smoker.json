@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "#ccore:natural_logs_crafting",
+        "X": [
+            "minecraft:furnace",
+            "minecraft:blast_furnace"
+        ]
+    },
+    "pattern": [
+        " # ",
+        "#X#",
+        " # "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:smoker"
+    }
+}

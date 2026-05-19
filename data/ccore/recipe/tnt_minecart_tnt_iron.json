@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "tnt_minecarts",
+    "key": {
+        "T": "minecraft:tnt",
+        "I": "minecraft:iron_ingot"
+    },
+    "pattern": [
+        "ITI",
+        "III"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:tnt_minecart"
+    }
+}

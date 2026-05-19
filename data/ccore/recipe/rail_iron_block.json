@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "rails",
+    "key": {
+        "S": "minecraft:stick",
+        "I": "minecraft:iron_block"
+    },
+    "pattern": [
+        " S ",
+        "ISI",
+        " S "
+    ],
+    "result": {
+        "count": 48,
+        "id": "minecraft:rail"
+    }
+}

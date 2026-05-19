@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "hopper_minecarts",
+    "key": {
+        "B": "minecraft:barrel",
+        "P": "#minecraft:planks",
+        "I": "minecraft:iron_ingot",
+        "M": "minecraft:minecart"
+    },
+    "pattern": [
+        "IPI",
+        "IBI",
+        "MI "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:hopper_minecart"
+    }
+}

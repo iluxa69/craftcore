@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "copper_chains",
+    "key": {
+        "B": "minecraft:copper_block",
+        "I": "minecraft:copper_ingot"
+    },
+    "pattern": [
+        "I",
+        "B",
+        "I"
+    ],
+    "result": {
+        "count": 18,
+        "id": "minecraft:copper_chain"
+    }
+}

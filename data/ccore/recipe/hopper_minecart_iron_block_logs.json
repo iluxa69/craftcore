@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "hopper_minecarts",
+    "key": {
+        "L": "#minecraft:logs",
+        "I": "minecraft:iron_ingot",
+        "N": "minecraft:iron_block"
+    },
+    "pattern": [
+        " L",
+        " L",
+        "IN"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:hopper_minecart"
+    }
+}

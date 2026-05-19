@@ -1,0 +1,51 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_logs": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:mangrove_logs"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_stonecutter": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:stonecutter"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [
+        [
+            "has_logs"
+        ],
+        [
+            "has_stonecutter"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:c_mangrove_wood_stripped_wood",
+            "ccore:c_mangrove_boat_log",
+            "ccore:c_mangrove_door_log",
+            "ccore:c_mangrove_fence_gate_log",
+            "ccore:c_mangrove_fence_log",
+            "ccore:c_mangrove_planks_log",
+            "ccore:c_mangrove_sign_log",
+            "ccore:c_mangrove_slab_log",
+            "ccore:c_mangrove_stairs_log",
+            "ccore:c_mangrove_stripped_log_log",
+            "ccore:c_mangrove_stripped_wood_stripped_log",
+            "ccore:c_mangrove_trapdoor_log",
+            "ccore:c_mangrove_wood_log",
+            "ccore:c_mangrove_shelf_stripped_log"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "criteria": {
+        "in_water": {
+            "conditions": {
+                "block": "minecraft:water"
+            },
+            "trigger": "minecraft:enter_block"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "in_water"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:c_pale_oak_boat_log",
+            "ccore:c_cherry_boat_log",
+            "ccore:c_mangrove_boat_log",
+            "ccore:c_dark_oak_boat_log",
+            "ccore:c_acacia_boat_log",
+            "ccore:c_jungle_boat_log",
+            "ccore:c_birch_boat_log",
+            "ccore:c_spruce_boat_log",
+            "ccore:c_oak_boat_log"
+        ]
+    }
+}

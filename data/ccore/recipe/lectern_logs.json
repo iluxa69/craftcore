@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "lecterns",
+    "key": {
+        "L": "#minecraft:logs",
+        "B": "#minecraft:bookshelf_books"
+    },
+    "pattern": [
+        " L ",
+        "BBB",
+        " L "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:lectern"
+    }
+}

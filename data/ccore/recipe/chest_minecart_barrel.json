@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "chest_minecarts",
+    "key": {
+        "I": "minecraft:iron_ingot",
+        "L": "#minecraft:planks",
+        "B": "minecraft:barrel"
+    },
+    "pattern": [
+        " L ",
+        "IBI",
+        "III"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:chest_minecart"
+    }
+}

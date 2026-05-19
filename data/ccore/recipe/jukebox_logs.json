@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "jukeboxs",
+    "key": {
+        "L": "#minecraft:logs",
+        "D": "minecraft:diamond"
+    },
+    "pattern": [
+        "LDL"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:jukebox"
+    }
+}

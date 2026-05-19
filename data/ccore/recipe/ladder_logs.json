@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "ladders",
+    "key": {
+        "L": "#minecraft:logs"
+    },
+    "pattern": [
+        "L L",
+        "LLL",
+        "L L"
+    ],
+    "result": {
+        "count": 32,
+        "id": "minecraft:ladder"
+    }
+}

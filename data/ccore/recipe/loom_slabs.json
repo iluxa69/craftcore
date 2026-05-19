@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "looms",
+    "key": {
+        "W": "#minecraft:wooden_slabs",
+        "S": "minecraft:string"
+    },
+    "pattern": [
+        "SS ",
+        "WW ",
+        "WW "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:loom"
+    }
+}

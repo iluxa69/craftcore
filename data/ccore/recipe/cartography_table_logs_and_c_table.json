@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "cartography_tables",
+    "key": {
+        "L": "#ccore:logs_with_c_table_crafting",
+        "P": "minecraft:paper"
+    },
+    "pattern": [
+        "PP",
+        "L "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cartography_table"
+    }
+}

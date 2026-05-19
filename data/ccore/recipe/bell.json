@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "S": "#ccore:natural_stone_crafting_materials",
+        "L": "#ccore:natural_logs_crafting",
+        "G": "minecraft:gold_block"
+    },
+    "pattern": [
+        "SLS",
+        "SGS",
+        "SGS"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:bell"
+    }
+}
