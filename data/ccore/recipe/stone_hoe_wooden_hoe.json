@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "stone_hoes",
+    "key": {
+        "H": "minecraft:wooden_hoe",
+        "M": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+        "MM",
+        "  ",
+        " H"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:stone_hoe"
+    }
+}

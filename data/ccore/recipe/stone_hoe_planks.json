@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "stone_hoes",
+    "key": {
+        "#": "#minecraft:planks",
+        "X": "#minecraft:stone_tool_materials"
+    },
+    "pattern": [
+        "XX",
+        "  ",
+        " #"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:stone_hoe"
+    }
+}

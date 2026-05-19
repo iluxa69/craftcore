@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "golden_hoes",
+    "key": {
+        "H": "minecraft:stone_hoe",
+        "M": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+        "MM",
+        "  ",
+        " H"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:golden_hoe"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "copper_pickaxes",
+    "key": {
+        "P": "minecraft:wooden_pickaxe",
+        "M": "#minecraft:copper_tool_materials"
+    },
+    "pattern": [
+        "MMM",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:copper_pickaxe"
+    }
+}

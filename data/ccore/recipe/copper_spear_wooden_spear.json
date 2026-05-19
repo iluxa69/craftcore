@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "copper_spears",
+    "key": {
+        "S": "minecraft:wooden_spear",
+        "M": "#minecraft:copper_tool_materials"
+    },
+    "pattern": [
+        "  M",
+        "   ",
+        "S  "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:copper_spear"
+    }
+}

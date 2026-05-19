@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "copper_hoes",
+    "key": {
+        "H": "minecraft:stone_hoe",
+        "M": "#minecraft:copper_tool_materials"
+    },
+    "pattern": [
+        "MM",
+        "  ",
+        " H"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:copper_hoe"
+    }
+}

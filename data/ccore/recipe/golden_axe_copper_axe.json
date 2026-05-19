@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "golden_axes",
+    "key": {
+        "A": "minecraft:copper_axe",
+        "M": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+        "MM",
+        "M ",
+        " A"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:golden_axe"
+    }
+}

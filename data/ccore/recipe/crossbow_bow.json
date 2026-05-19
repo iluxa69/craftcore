@@ -9,8 +9,8 @@
     },
     "pattern": [
         "I",
-        "B",
-        "T"
+        "T",
+        "B"
     ],
     "result": {
         "count": 1,
