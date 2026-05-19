@@ -1,0 +1,65 @@
+{
+    "criteria": {
+        "has_wool_carpets": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:wool_carpets"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_string": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:string"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "has_wool_carpets",
+            "has_string"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:blue_carpet_string",
+            "ccore:light_blue_carpet_string",
+            "ccore:cyan_carpet_string",
+            "ccore:lime_carpet_string",
+            "ccore:yellow_carpet_string",
+            "ccore:orange_carpet_string",
+            "ccore:red_carpet_string",
+            "ccore:brown_carpet_string",
+            "ccore:gray_carpet_string",
+            "ccore:light_gray_carpet_string",
+            "ccore:black_carpet_string",
+            "ccore:white_carpet_string",
+            "ccore:cyan_carpet_wool_dye",
+            "ccore:purple_carpet_wool_dye",
+            "ccore:magenta_carpet_wool_dye",
+            "ccore:pink_carpet_wool_dye",
+            "ccore:white_carpet_wool_dye",
+            "ccore:black_carpet_wool_dye",
+            "ccore:light_gray_carpet_wool_dye",
+            "ccore:gray_carpet_wool_dye",
+            "ccore:brown_carpet_wool_dye",
+            "ccore:red_carpet_wool_dye",
+            "ccore:orange_carpet_wool_dye",
+            "ccore:yellow_carpet_wool_dye",
+            "ccore:lime_carpet_wool_dye",
+            "ccore:light_blue_carpet_wool_dye",
+            "ccore:blue_carpet_wool_dye",
+            "ccore:pink_carpet_string",
+            "ccore:magenta_carpet_string",
+            "ccore:purple_carpet_string"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "glass_bottle",
+    "key": {
+        "#": "minecraft:glass_pane"
+    },
+    "pattern": [
+        "# #",
+        " # "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+    }
+}

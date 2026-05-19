@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "wool_string",
+    "key": {
+        "#": "minecraft:string",
+        "D": "minecraft:orange_dye"
+    },
+    "pattern": [
+        "## ",
+        "##D"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:orange_wool"
+    }
+}

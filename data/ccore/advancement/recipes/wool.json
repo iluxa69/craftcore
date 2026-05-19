@@ -1,0 +1,50 @@
+{
+    "criteria": {
+        "has_wool": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:wool"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_string": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:string"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "has_wool",
+            "has_string"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:blue_wool_string",
+            "ccore:brown_wool_string",
+            "ccore:cyan_wool_string",
+            "ccore:gray_wool_string",
+            "ccore:light_blue_wool_string",
+            "ccore:light_gray_wool_string",
+            "ccore:lime_wool_string",
+            "ccore:magenta_wool_string",
+            "ccore:red_wool_string",
+            "ccore:pink_wool_string",
+            "ccore:orange_wool_string",
+            "ccore:black_wool_string",
+            "ccore:purple_wool_string",
+            "ccore:white_wool_string",
+            "ccore:yellow_wool_string"
+        ]
+    }
+}

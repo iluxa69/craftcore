@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "carpet_wool_string",
+    "ingredients": [
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:light_blue_dye"
+    ],
+    "result": {
+        "count": 3,
+        "id": "minecraft:light_blue_carpet"
+    }
+}

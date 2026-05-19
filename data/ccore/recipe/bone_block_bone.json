@@ -1,13 +1,11 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "minecraft:crafting_shapeless",
     "category": "building",
     "group": "bone_block",
-    "key": {
-        "B": "minecraft:bone"
-    },
-    "pattern": [
-        "B ",
-        "BB"
+    "ingredients": [
+        "minecraft:bone",
+        "minecraft:bone",
+        "minecraft:bone"
     ],
     "result": {
         "count": 1,

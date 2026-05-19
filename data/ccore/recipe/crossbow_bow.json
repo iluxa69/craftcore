@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "crossbows",
+    "key": {
+        "T": "minecraft:tripwire_hook",
+        "I": "minecraft:iron_ingot",
+        "B": "minecraft:bow"
+    },
+    "pattern": [
+        "I",
+        "B",
+        "T"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:crossbow"
+    }
+}

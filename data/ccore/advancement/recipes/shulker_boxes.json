@@ -1,0 +1,56 @@
+{
+    "criteria": {
+        "has_shulker_box": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:shulker_shell"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "has_shulker_box"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:black_shulker_box_dye_shulker_shell_barrel",
+            "ccore:black_shulker_box_dye_shulker_shell_chest",
+            "ccore:blue_shulker_box_dye_shulker_shell_barrel",
+            "ccore:blue_shulker_box_dye_shulker_shell_chest",
+            "ccore:brown_shulker_box_dye_shulker_shell_barrel",
+            "ccore:brown_shulker_box_dye_shulker_shell_chest",
+            "ccore:cyan_shulker_box_dye_shulker_shell_barrel",
+            "ccore:cyan_shulker_box_dye_shulker_shell_chest",
+            "ccore:gray_shulker_box_dye_shulker_shell_barrel",
+            "ccore:gray_shulker_box_dye_shulker_shell_chest",
+            "ccore:green_shulker_box_dye_shulker_shell_barrel",
+            "ccore:green_shulker_box_dye_shulker_shell_chest",
+            "ccore:light_blue_shulker_box_dye_shulker_shell_barrel",
+            "ccore:light_blue_shulker_box_dye_shulker_shell_chest",
+            "ccore:light_gray_shulker_box_dye_shulker_shell_barrel",
+            "ccore:light_gray_shulker_box_dye_shulker_shell_chest",
+            "ccore:lime_shulker_box_dye_shulker_shell_barrel",
+            "ccore:lime_shulker_box_dye_shulker_shell_chest",
+            "ccore:magenta_shulker_box_dye_shulker_shell_barrel",
+            "ccore:magenta_shulker_box_dye_shulker_shell_chest",
+            "ccore:orange_shulker_box_dye_shulker_shell_barrel",
+            "ccore:orange_shulker_box_dye_shulker_shell_chest",
+            "ccore:pink_shulker_box_dye_shulker_shell_barrel",
+            "ccore:pink_shulker_box_dye_shulker_shell_chest",
+            "ccore:purple_shulker_box_dye_shulker_shell_barrel",
+            "ccore:purple_shulker_box_dye_shulker_shell_chest",
+            "ccore:red_shulker_box_dye_shulker_shell_barrel",
+            "ccore:red_shulker_box_dye_shulker_shell_chest",
+            "ccore:white_shulker_box_dye_shulker_shell_barrel",
+            "ccore:white_shulker_box_dye_shulker_shell_chest",
+            "ccore:yellow_shulker_box_dye_shulker_shell_barrel",
+            "ccore:yellow_shulker_box_dye_shulker_shell_chest"
+        ]
+    }
+}

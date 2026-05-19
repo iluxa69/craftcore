@@ -1,15 +1,16 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "shulker_box",
+    "group": "shulker_box_dye_shulker_shell",
     "ingredients": [
         "minecraft:shulker_shell",
         "minecraft:barrel",
         "#minecraft:planks",
-        "minecraft:shulker_shell"
+        "minecraft:shulker_shell",
+        "minecraft:brown_dye"
     ],
     "result": {
         "count": 1,
-        "id": "minecraft:shulker_box"
+        "id": "minecraft:brown_shulker_box"
     }
 }
