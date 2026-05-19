@@ -1,5 +1,5 @@
 <div align="right">
-<b>English</b> | <a href="README-ru.md">Русский</a>
+<b>English</b> | <a href="https://github.com/iluxa69/craftcore/blob/main/README-ru.md">Русский</a>
 </div>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
