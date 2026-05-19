@@ -1,0 +1,42 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_block": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:copper_block"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_stonecutter": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:stonecutter"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [
+        [
+            "has_block"
+        ],
+        [
+            "has_stonecutter"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:c_lightning_rod_copper_block",
+            "ccore:c_copper_chain_copper_block",
+            "ccore:c_copper_door_copper_block",
+            "ccore:c_copper_bars_copper_block",
+            "ccore:c_copper_trapdoor_copper_block"
+        ]
+    }
+}

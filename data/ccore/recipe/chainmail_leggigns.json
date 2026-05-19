@@ -2,12 +2,13 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "key": {
-        "I": "minecraft:iron_chain"
+        "C": "minecraft:iron_chain",
+        "I": "minecraft:iron_ingot"
     },
     "pattern": [
         "III",
         "I I",
-        "I I"
+        "C C"
     ],
     "result": {
         "count": 1,

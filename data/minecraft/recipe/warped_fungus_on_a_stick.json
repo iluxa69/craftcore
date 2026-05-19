@@ -1,7 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "on_a_stick",
     "ingredients": [
         "minecraft:fishing_rod",
         "minecraft:warped_fungus"
