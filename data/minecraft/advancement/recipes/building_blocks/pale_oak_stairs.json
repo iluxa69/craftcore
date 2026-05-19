@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:pale_oak_stairs",
-            "ccore:pale_oak_stairs_small"
+            "ccore:pale_oak_stairs_logs",
+            "ccore:pale_oak_stairs_small",
+            "ccore:pale_oak_stairs_small_logs"
         ]
     }
 }

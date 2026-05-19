@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "mangrove_chest_boats",
+    "key": {
+        "L": "#minecraft:logs",
+        "B": "minecraft:mangrove_boat"
+    },
+    "pattern": [
+        "L",
+        "L",
+        "B"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:mangrove_chest_boat"
+    }
+}

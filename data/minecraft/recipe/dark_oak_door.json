@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
-    "group": "wooden_door",
+    "group": "dark_oak_doors",
     "key": {
         "#": "minecraft:dark_oak_planks"
     },

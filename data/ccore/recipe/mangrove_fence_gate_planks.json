@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "mangrove_fence_gates",
+    "key": {
+        "P": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+        "PPP",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:mangrove_fence_gate"
+    }
+}

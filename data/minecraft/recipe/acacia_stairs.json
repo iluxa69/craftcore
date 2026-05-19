@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "building",
-    "group": "wooden_stairs",
+    "group": "acacia_stairs",
     "key": {
         "#": "minecraft:acacia_planks"
     },

@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
+    "group": "bread",
     "key": {
         "#": "minecraft:hay_block"
     },

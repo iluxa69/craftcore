@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "pale_oak_fence_gates",
+    "key": {
+        "P": "minecraft:pale_oak_planks"
+    },
+    "pattern": [
+        "PPP",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pale_oak_fence_gate"
+    }
+}

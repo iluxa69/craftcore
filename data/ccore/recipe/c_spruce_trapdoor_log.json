@@ -2,7 +2,7 @@
     "type": "minecraft:stonecutting",
     "ingredient": "#minecraft:spruce_logs",
     "result": {
-        "count": 2,
+        "count": 4,
         "id": "minecraft:spruce_trapdoor"
     }
 }

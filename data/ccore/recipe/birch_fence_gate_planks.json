@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "birch_fence_gates",
+    "key": {
+        "P": "minecraft:birch_planks"
+    },
+    "pattern": [
+        "PPP",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:birch_fence_gate"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "mangrove_fence",
+    "key": {
+        "P": "minecraft:mangrove_planks"
+    },
+    "pattern": [
+        "PPP",
+        "P P"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:mangrove_fence"
+    }
+}

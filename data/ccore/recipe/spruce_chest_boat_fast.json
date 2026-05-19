@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "chest_boat",
+    "group": "spruce_chest_boats",
     "key": {
         "C": "minecraft:chest",
         "P": "minecraft:spruce_planks"

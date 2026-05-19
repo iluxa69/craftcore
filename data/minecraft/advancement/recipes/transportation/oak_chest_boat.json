@@ -27,9 +27,10 @@
     "rewards": {
         "recipes": [
             "minecraft:oak_chest_boat",
-            "ccore:oak_chest_boat_logs",
+            "ccore:oak_chest_boat_barrel",
+            "ccore:oak_chest_boat_boat_logs",
             "ccore:oak_chest_boat_fast",
-            "ccore:oak_chest_boat_barrel"
+            "ccore:oak_chest_boat_planks_logs"
         ]
     }
 }

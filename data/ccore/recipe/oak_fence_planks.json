@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "oak_fence",
+    "key": {
+        "P": "minecraft:oak_planks"
+    },
+    "pattern": [
+        "PPP",
+        "P P"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:oak_fence"
+    }
+}

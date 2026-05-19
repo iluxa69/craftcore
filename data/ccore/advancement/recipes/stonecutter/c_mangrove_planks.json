@@ -35,7 +35,8 @@
             "ccore:c_mangrove_button_planks",
             "ccore:c_mangrove_pressure_plate_planks",
             "ccore:c_mangrove_slab_planks",
-            "ccore:c_mangrove_stairs_planks"
+            "ccore:c_mangrove_stairs_planks",
+            "ccore:c_mangrove_trapdoor_planks"
         ]
     }
 }

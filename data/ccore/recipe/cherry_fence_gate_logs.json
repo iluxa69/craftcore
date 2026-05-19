@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "cherry_fence_gates",
+    "key": {
+        "L": "#minecraft:cherry_logs"
+    },
+    "pattern": [
+        "LLL",
+        " L "
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:cherry_fence_gate"
+    }
+}

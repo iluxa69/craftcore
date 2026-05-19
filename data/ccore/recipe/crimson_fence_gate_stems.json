@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "crimson_fence_gate",
+    "key": {
+        "L": "#minecraft:crimson_stems"
+    },
+    "pattern": [
+        "LLL",
+        " L "
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:crimson_fence_gate"
+    }
+}

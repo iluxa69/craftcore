@@ -35,7 +35,8 @@
             "ccore:c_birch_button_planks",
             "ccore:c_birch_pressure_plate_planks",
             "ccore:c_birch_slab_planks",
-            "ccore:c_birch_stairs_planks"
+            "ccore:c_birch_stairs_planks",
+            "ccore:c_birch_trapdoor_planks"
         ]
     }
 }

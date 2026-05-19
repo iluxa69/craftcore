@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "jungle_fence_gates",
+    "key": {
+        "P": "minecraft:jungle_planks"
+    },
+    "pattern": [
+        "PPP",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:jungle_fence_gate"
+    }
+}

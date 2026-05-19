@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "pale_oak_stairs",
+    "key": {
+        "#": "#minecraft:pale_oak_logs"
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 16,
+        "id": "minecraft:pale_oak_stairs"
+    }
+}

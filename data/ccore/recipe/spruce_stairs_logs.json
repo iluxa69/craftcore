@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "spruce_stairs",
+    "key": {
+        "#": "#minecraft:spruce_logs"
+    },
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 16,
+        "id": "minecraft:spruce_stairs"
+    }
+}

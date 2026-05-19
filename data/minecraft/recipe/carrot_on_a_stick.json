@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "on_a_stick",
+    "ingredients": [
+        "minecraft:fishing_rod",
+        "minecraft:carrot"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:carrot_on_a_stick"
+    }
+}

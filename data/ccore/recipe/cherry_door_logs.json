@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "cherry_doors",
+    "key": {
+        "#": "#minecraft:cherry_logs"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:cherry_door"
+    }
+}

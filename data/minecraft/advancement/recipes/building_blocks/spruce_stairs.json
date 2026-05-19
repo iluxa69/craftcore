@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:spruce_stairs",
-            "ccore:spruce_stairs_small"
+            "ccore:spruce_stairs_logs",
+            "ccore:spruce_stairs_small",
+            "ccore:spruce_stairs_small_logs"
         ]
     }
 }

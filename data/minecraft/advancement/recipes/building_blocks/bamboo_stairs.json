@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:bamboo_stairs",
-            "ccore:bamboo_stairs_small"
+            "ccore:bamboo_stairs_small",
+            "ccore:bamboo_stairs_bamboo_block",
+            "ccore:bamboo_stairs_small_bamboo_block"
         ]
     }
 }

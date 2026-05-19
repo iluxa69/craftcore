@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "pale_oak_doors",
+    "key": {
+        "#": "#minecraft:pale_oak_logs"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:pale_oak_door"
+    }
+}

@@ -35,7 +35,8 @@
             "ccore:c_acacia_button_planks",
             "ccore:c_acacia_pressure_plate_planks",
             "ccore:c_acacia_slab_planks",
-            "ccore:c_acacia_stairs_planks"
+            "ccore:c_acacia_stairs_planks",
+            "ccore:c_acacia_trapdoor_planks"
         ]
     }
 }

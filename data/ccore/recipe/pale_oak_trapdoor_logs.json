@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "pale_oak_trapdoors",
+    "key": {
+        "#": "#minecraft:pale_oak_logs"
+    },
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 16,
+        "id": "minecraft:pale_oak_trapdoor"
+    }
+}

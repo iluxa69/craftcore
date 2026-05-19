@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "crimson_doors",
+    "key": {
+        "#": "#minecraft:crimson_stems"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:crimson_door"
+    }
+}

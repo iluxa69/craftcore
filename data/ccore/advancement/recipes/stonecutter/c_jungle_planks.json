@@ -35,7 +35,8 @@
             "ccore:c_jungle_button_planks",
             "ccore:c_jungle_pressure_plate_planks",
             "ccore:c_jungle_slab_planks",
-            "ccore:c_jungle_stairs_planks"
+            "ccore:c_jungle_stairs_planks",
+            "ccore:c_jungle_trapdoor_planks"
         ]
     }
 }

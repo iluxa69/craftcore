@@ -35,7 +35,8 @@
             "ccore:c_oak_button_planks",
             "ccore:c_oak_pressure_plate_planks",
             "ccore:c_oak_slab_planks",
-            "ccore:c_oak_stairs_planks"
+            "ccore:c_oak_stairs_planks",
+            "ccore:c_oak_trapdoor_planks"
         ]
     }
 }

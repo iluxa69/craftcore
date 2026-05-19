@@ -35,7 +35,8 @@
             "ccore:c_warped_button_planks",
             "ccore:c_warped_pressure_plate_planks",
             "ccore:c_warped_slab_planks",
-            "ccore:c_warped_stairs_planks"
+            "ccore:c_warped_stairs_planks",
+            "ccore:c_warped_trapdoor_planks"
         ]
     }
 }

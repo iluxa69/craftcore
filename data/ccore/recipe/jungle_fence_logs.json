@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "wooden_fence",
+    "group": "jungle_fence",
     "key": {
         "L": "#minecraft:jungle_logs"
     },

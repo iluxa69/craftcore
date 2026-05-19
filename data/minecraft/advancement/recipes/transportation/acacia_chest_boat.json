@@ -27,9 +27,10 @@
     "rewards": {
         "recipes": [
             "minecraft:acacia_chest_boat",
-            "ccore:acacia_chest_boat_logs",
+            "ccore:acacia_chest_boat_barrel",
+            "ccore:acacia_chest_boat_boat_logs",
             "ccore:acacia_chest_boat_fast",
-            "ccore:acacia_chest_boat_barrel"
+            "ccore:acacia_chest_boat_planks_logs"
         ]
     }
 }

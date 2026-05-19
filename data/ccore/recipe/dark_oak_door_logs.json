@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "dark_oak_doors",
+    "key": {
+        "#": "#minecraft:dark_oak_logs"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:dark_oak_door"
+    }
+}

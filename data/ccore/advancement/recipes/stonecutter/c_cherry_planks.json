@@ -35,7 +35,8 @@
             "ccore:c_cherry_button_planks",
             "ccore:c_cherry_pressure_plate_planks",
             "ccore:c_cherry_slab_planks",
-            "ccore:c_cherry_stairs_planks"
+            "ccore:c_cherry_stairs_planks",
+            "ccore:c_cherry_trapdoor_planks"
         ]
     }
 }

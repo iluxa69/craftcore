@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
-    "group": "wooden_trapdoor",
+    "group": "pale_oak_trapdoors",
     "key": {
         "#": "minecraft:pale_oak_planks"
     },

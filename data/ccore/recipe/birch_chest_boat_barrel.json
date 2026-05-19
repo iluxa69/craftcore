@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "chest_boat",
+    "group": "birch_chest_boats",
     "key": {
         "A": "#minecraft:planks",
         "B": "minecraft:barrel",

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "acacia_fence",
+    "key": {
+        "P": "minecraft:acacia_planks"
+    },
+    "pattern": [
+        "PPP",
+        "P P"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:acacia_fence"
+    }
+}

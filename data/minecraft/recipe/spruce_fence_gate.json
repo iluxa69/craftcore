@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
-    "group": "wooden_fence_gate",
+    "group": "spruce_fence_gates",
     "key": {
         "#": "minecraft:stick",
         "W": "minecraft:spruce_planks"
@@ -11,7 +11,7 @@
         "#W#"
     ],
     "result": {
-        "count": 2,
+        "count": 1,
         "id": "minecraft:spruce_fence_gate"
     }
 }

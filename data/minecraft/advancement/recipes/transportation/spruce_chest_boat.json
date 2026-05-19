@@ -27,9 +27,10 @@
     "rewards": {
         "recipes": [
             "minecraft:spruce_chest_boat",
-            "ccore:spruce_chest_boat_logs",
+            "ccore:spruce_chest_boat_barrel",
+            "ccore:spruce_chest_boat_boat_logs",
             "ccore:spruce_chest_boat_fast",
-            "ccore:spruce_chest_boat_barrel"
+            "ccore:spruce_chest_boat_planks_logs"
         ]
     }
 }

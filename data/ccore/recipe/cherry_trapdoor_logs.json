@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "cherry_trapdoors",
+    "key": {
+        "#": "#minecraft:cherry_logs"
+    },
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 16,
+        "id": "minecraft:cherry_trapdoor"
+    }
+}

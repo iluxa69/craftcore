@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "acacia_fence_gates",
+    "key": {
+        "L": "#minecraft:acacia_logs"
+    },
+    "pattern": [
+        "LLL",
+        " L "
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:acacia_fence_gate"
+    }
+}

@@ -27,7 +27,8 @@
     "rewards": {
         "recipes": [
             "minecraft:birch_fence",
-            "ccore:birch_fence_logs"
+            "ccore:birch_fence_logs",
+            "ccore:birch_fence_planks"
         ]
     }
 }

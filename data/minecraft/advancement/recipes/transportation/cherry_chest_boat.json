@@ -27,9 +27,10 @@
     "rewards": {
         "recipes": [
             "minecraft:cherry_chest_boat",
-            "ccore:cherry_chest_boat_logs",
+            "ccore:cherry_chest_boat_barrel",
+            "ccore:cherry_chest_boat_boat_logs",
             "ccore:cherry_chest_boat_fast",
-            "ccore:cherry_chest_boat_barrel"
+            "ccore:cherry_chest_boat_planks_logs"
         ]
     }
 }

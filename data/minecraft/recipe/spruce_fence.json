@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "wooden_fence",
+    "group": "spruce_fence",
     "key": {
         "#": "minecraft:stick",
         "W": "minecraft:spruce_planks"

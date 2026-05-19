@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "spruce_chest_boats",
+    "key": {
+        "L": "#minecraft:logs",
+        "P": "minecraft:spruce_planks"
+    },
+    "pattern": [
+        " L ",
+        "PLP",
+        "PPP"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:spruce_chest_boat"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "oak_chest_boats",
+    "key": {
+        "L": "#minecraft:logs",
+        "B": "minecraft:oak_boat"
+    },
+    "pattern": [
+        "L",
+        "L",
+        "B"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:oak_chest_boat"
+    }
+}

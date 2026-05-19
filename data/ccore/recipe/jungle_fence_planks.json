@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "jungle_fence",
+    "key": {
+        "P": "minecraft:jungle_planks"
+    },
+    "pattern": [
+        "PPP",
+        "P P"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:jungle_fence"
+    }
+}

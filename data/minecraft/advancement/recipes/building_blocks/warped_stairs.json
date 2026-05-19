@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:warped_stairs",
-            "ccore:warped_stairs_small"
+            "ccore:warped_stairs_small",
+            "ccore:warped_stairs_small_stems",
+            "ccore:warped_stairs_stems"
         ]
     }
 }

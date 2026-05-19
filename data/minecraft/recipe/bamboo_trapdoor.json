@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "redstone",
-    "group": "wooden_trapdoor",
+    "group": "bamboo_trapdoors",
     "key": {
         "#": "minecraft:bamboo_planks"
     },

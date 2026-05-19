@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:dark_oak_stairs",
-            "ccore:dark_oak_stairs_small"
+            "ccore:dark_oak_stairs_logs",
+            "ccore:dark_oak_stairs_small",
+            "ccore:dark_oak_stairs_small_logs"
         ]
     }
 }

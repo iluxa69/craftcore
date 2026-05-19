@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "wooden_fence",
+    "group": "bamboo_fence",
     "key": {
         "B": "#minecraft:bamboo_blocks"
     },

@@ -27,7 +27,9 @@
     "rewards": {
         "recipes": [
             "minecraft:cherry_stairs",
-            "ccore:cherry_stairs_small"
+            "ccore:cherry_stairs_logs",
+            "ccore:cherry_stairs_small",
+            "ccore:cherry_stairs_small_logs"
         ]
     }
 }
