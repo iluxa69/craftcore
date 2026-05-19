@@ -2,7 +2,7 @@
     "type": "minecraft:stonecutting",
     "ingredient": "#minecraft:crimson_stems",
     "result": {
-        "count": 4,
+        "count": 3,
         "id": "minecraft:crimson_trapdoor"
     }
 }

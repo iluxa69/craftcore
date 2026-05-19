@@ -4,12 +4,11 @@
     "group": "grindstones",
     "key": {
         "#": "#minecraft:planks",
-        "-": "#ccore:stone_slab_crafting_materials",
-        "I": "minecraft:stick"
+        "-": "#ccore:stone_slab_crafting_materials"
     },
     "pattern": [
-        "I-I",
-        "# #"
+        " - ",
+        "###"
     ],
     "result": {
         "count": 1,

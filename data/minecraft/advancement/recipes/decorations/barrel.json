@@ -11,11 +11,17 @@
             },
             "trigger": "minecraft:inventory_changed"
         },
-        "has_stonecutter": {
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "minecraft:barrel"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_wood_slab": {
             "conditions": {
                 "items": [
                     {
-                        "items": "minecraft:stonecutter"
+                        "items": "#minecraft:wooden_slabs"
                     }
                 ]
             },
@@ -24,23 +30,16 @@
     },
     "requirements": [
         [
-            "has_planks"
-        ],
-        [
-            "has_stonecutter"
+            "has_the_recipe",
+            "has_planks",
+            "has_wood_slab"
         ]
     ],
     "rewards": {
         "recipes": [
-            "ccore:c_bowl_planks",
-            "ccore:c_stick_log",
-            "ccore:c_stick_planks",
-            "ccore:c_ladder_log",
-            "ccore:c_ladder_planks",
-            "ccore:c_crafting_table_log",
-            "ccore:c_composter_log",
-            "ccore:c_wooden_axe_log",
-            "ccore:c_wooden_pickaxe_log"
+            "minecraft:barrel",
+            "ccore:barrel_planks",
+            "ccore:barrel_logs"
         ]
     }
 }

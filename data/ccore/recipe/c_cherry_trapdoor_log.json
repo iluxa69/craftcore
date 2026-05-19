@@ -2,7 +2,7 @@
     "type": "minecraft:stonecutting",
     "ingredient": "#minecraft:cherry_logs",
     "result": {
-        "count": 4,
+        "count": 3,
         "id": "minecraft:cherry_trapdoor"
     }
 }
