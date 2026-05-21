@@ -1,8 +1,8 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": "minecraft:pink_concrete",
-	"result": {
-		"count": 1,
-		"id": "minecraft:pink_concrete_powder"
-	}
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:pink_concrete",
+    "result": {
+        "count": 1,
+        "id": "minecraft:pink_concrete_powder"
+    }
 }

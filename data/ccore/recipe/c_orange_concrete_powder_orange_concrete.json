@@ -1,8 +1,8 @@
 {
-	"type": "minecraft:stonecutting",
-	"ingredient": "minecraft:orange_concrete",
-	"result": {
-		"count": 1,
-		"id": "minecraft:orange_concrete_powder"
-	}
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:orange_concrete",
+    "result": {
+        "count": 1,
+        "id": "minecraft:orange_concrete_powder"
+    }
 }

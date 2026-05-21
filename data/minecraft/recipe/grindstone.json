@@ -1,18 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "misc",
-	"group": "grindstones",
-	"key": {
-		"#": "#minecraft:planks",
-		"-": "#ccore:stone_slab_crafting_materials",
-		"I": "minecraft:stick"
-	},
-	"pattern": [
-		"I-I",
-		"# #"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:grindstone"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "grindstones",
+    "key": {
+        "#": "#minecraft:planks",
+        "-": "#ccore:stone_slab_crafting_materials",
+        "I": "minecraft:stick"
+    },
+    "pattern": [
+        "I-I",
+        "# #"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:grindstone"
+    }
 }
