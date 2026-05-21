@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"has_glass": {
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:glass"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"parent": "minecraft:recipes/root",
+	"requirements": [
+		[
+			"has_glass"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:c_glass_glass_bottle",
+			"ccore:c_glass_glass_panel"
+		]
+	}
+}

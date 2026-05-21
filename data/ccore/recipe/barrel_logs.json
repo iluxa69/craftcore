@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "group": "barrels",
-    "key": {
-        "P": "#minecraft:logs"
-    },
-    "pattern": [
-        "PPP",
-        "P P",
-        "P P"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:barrel"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "barrels",
+	"key": {
+		"P": "#minecraft:logs"
+	},
+	"pattern": [
+		"PPP",
+		"P P",
+		"P P"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:barrel"
+	}
 }

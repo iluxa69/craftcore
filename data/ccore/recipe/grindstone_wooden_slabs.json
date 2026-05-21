@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "grindstones",
+	"group": "grindstones",
     "key": {
         "#": "#minecraft:planks",
         "-": "#ccore:stone_slab_crafting_materials"
