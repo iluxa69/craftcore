@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "#ccore:c_red_red_sandstones",
+    "result": {
+        "count": 1,
+        "id": "minecraft:red_sand"
+    }
+}
