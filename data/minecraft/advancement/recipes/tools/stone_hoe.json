@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:stone_hoe",
+            "ccore:stone_hoe_planks",
             "ccore:stone_hoe_wooden_hoe",
-            "ccore:stone_hoe_planks"
+            "minecraft:stone_hoe"
         ]
     }
 }

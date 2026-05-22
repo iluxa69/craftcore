@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:bread",
-            "ccore:bread_hay_block"
+            "ccore:bread_hay_block",
+            "minecraft:bread"
         ]
     }
 }

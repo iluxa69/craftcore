@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_slab",
-            "ccore:mangrove_slab_logs"
+            "ccore:mangrove_slab_logs",
+            "minecraft:mangrove_slab"
         ]
     }
 }

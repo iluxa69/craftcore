@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:pale_oak_slab",
-            "ccore:pale_oak_slab_logs"
+            "ccore:pale_oak_slab_logs",
+            "minecraft:pale_oak_slab"
         ]
     }
 }

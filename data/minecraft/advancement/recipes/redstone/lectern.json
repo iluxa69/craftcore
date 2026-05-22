@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:lectern",
             "ccore:lectern_logs",
-            "ccore:lectern_planks"
+            "ccore:lectern_planks",
+            "minecraft:lectern"
         ]
     }
 }

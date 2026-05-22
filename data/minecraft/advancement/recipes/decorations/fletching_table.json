@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:fletching_table",
-            "ccore:fletching_table_logs_and_c_table"
+            "ccore:fletching_table_logs_and_c_table",
+            "minecraft:fletching_table"
         ]
     }
 }

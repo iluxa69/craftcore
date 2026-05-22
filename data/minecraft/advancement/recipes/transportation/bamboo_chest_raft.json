@@ -26,11 +26,11 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:bamboo_chest_raft",
-            "ccore:bamboo_chest_raft_logs",
-            "ccore:bamboo_chest_raft_fast",
             "ccore:bamboo_chest_raft_barrel",
-            "ccore:bamboo_chest_raft_raft_logs"
+            "ccore:bamboo_chest_raft_fast",
+            "ccore:bamboo_chest_raft_logs",
+            "ccore:bamboo_chest_raft_raft_logs",
+            "minecraft:bamboo_chest_raft"
         ]
     }
 }

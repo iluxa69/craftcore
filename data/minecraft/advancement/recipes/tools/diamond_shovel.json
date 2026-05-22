@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:diamond_shovel",
-            "ccore:diamond_shovel_planks"
+            "ccore:diamond_shovel_planks",
+            "minecraft:diamond_shovel"
         ]
     }
 }

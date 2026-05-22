@@ -1,0 +1,32 @@
+{
+    "criteria": {
+        "has_cyan_dye": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:cyan_dye"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "ccore:cyan_wool_string"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "has_cyan_dye",
+            "has_the_recipe"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:cyan_wool_string"
+        ]
+    }
+}

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:furnace_minecart",
-            "ccore:furnace_minecart_fast"
+            "ccore:furnace_minecart_fast",
+            "minecraft:furnace_minecart"
         ]
     }
 }

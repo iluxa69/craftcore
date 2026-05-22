@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:golden_axe",
             "ccore:golden_axe_copper_axe",
+            "ccore:golden_axe_planks",
             "ccore:golden_axe_stone_axe",
-            "ccore:golden_axe_planks"
+            "minecraft:golden_axe"
         ]
     }
 }

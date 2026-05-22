@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:bone_block",
-            "ccore:bone_block_bone"
+            "ccore:bone_block_bone",
+            "minecraft:bone_block"
         ]
     }
 }

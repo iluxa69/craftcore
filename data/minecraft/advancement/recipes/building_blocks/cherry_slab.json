@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cherry_slab",
-            "ccore:cherry_slab_logs"
+            "ccore:cherry_slab_logs",
+            "minecraft:cherry_slab"
         ]
     }
 }

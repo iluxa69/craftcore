@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:diamond_hoe",
-            "ccore:diamond_hoe_planks"
+            "ccore:diamond_hoe_planks",
+            "minecraft:diamond_hoe"
         ]
     }
 }

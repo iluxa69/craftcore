@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:spruce_slab",
-            "ccore:spruce_slab_logs"
+            "ccore:spruce_slab_logs",
+            "minecraft:spruce_slab"
         ]
     }
 }

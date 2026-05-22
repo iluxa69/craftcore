@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:end_stone_brick_stairs",
-            "ccore:end_stone_brick_stairs_small"
+            "ccore:end_stone_brick_stairs_small",
+            "minecraft:end_stone_brick_stairs"
         ]
     }
 }

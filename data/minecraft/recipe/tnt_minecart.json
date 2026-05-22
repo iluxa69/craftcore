@@ -3,8 +3,8 @@
     "category": "misc",
     "group": "tnt_minecarts",
     "ingredients": [
-        "minecraft:tnt",
-        "minecraft:minecart"
+        "minecraft:minecart",
+        "minecraft:tnt"
     ],
     "result": {
         "count": 1,

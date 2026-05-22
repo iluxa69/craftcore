@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:pale_oak_fence_gate",
             "ccore:pale_oak_fence_gate_logs",
-            "ccore:pale_oak_fence_gate_planks"
+            "ccore:pale_oak_fence_gate_planks",
+            "minecraft:pale_oak_fence_gate"
         ]
     }
 }

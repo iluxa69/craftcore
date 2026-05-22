@@ -26,11 +26,11 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chest_minecart",
+            "ccore:chest_minecart_barrel",
             "ccore:chest_minecart_fast",
             "ccore:chest_minecart_logs_iron",
-            "ccore:chest_minecart_barrel",
-            "ccore:chest_minecart_logs_minecart"
+            "ccore:chest_minecart_logs_minecart",
+            "minecraft:chest_minecart"
         ]
     }
 }

@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:jukebox",
             "ccore:jukebox_logs",
-            "ccore:jukebox_logs2"
+            "ccore:jukebox_logs2",
+            "minecraft:jukebox"
         ]
     }
 }

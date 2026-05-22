@@ -4,9 +4,9 @@
     "group": "sandstone_stairs",
     "key": {
         "#": [
-            "minecraft:sandstone",
             "minecraft:chiseled_sandstone",
-            "minecraft:cut_sandstone"
+            "minecraft:cut_sandstone",
+            "minecraft:sandstone"
         ]
     },
     "pattern": [

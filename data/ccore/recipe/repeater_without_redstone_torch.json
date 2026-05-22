@@ -5,8 +5,8 @@
     "key": {
         "T": "minecraft:stick",
         "S": [
-            "minecraft:stone",
-            "minecraft:deepslate"
+            "minecraft:deepslate",
+            "minecraft:stone"
         ],
         "R": "minecraft:redstone"
     },

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:wooden_axe",
-            "ccore:wooden_axe_planks"
+            "ccore:wooden_axe_planks",
+            "minecraft:wooden_axe"
         ]
     }
 }

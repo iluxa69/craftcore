@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:tuff_brick_stairs",
-            "ccore:tuff_brick_stairs_small"
+            "ccore:tuff_brick_stairs_small",
+            "minecraft:tuff_brick_stairs"
         ]
     }
 }

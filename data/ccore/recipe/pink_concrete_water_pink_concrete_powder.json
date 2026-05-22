@@ -7,11 +7,11 @@
         "minecraft:pink_concrete_powder",
         "minecraft:pink_concrete_powder",
         "minecraft:pink_concrete_powder",
-        "minecraft:water_bucket",
         "minecraft:pink_concrete_powder",
         "minecraft:pink_concrete_powder",
         "minecraft:pink_concrete_powder",
-        "minecraft:pink_concrete_powder"
+        "minecraft:pink_concrete_powder",
+        "minecraft:water_bucket"
     ],
     "result": {
         "count": 8,

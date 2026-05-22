@@ -37,9 +37,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:barrel",
+            "ccore:barrel_logs",
             "ccore:barrel_planks",
-            "ccore:barrel_logs"
+            "minecraft:barrel"
         ]
     }
 }

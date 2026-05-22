@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:stone_spear",
+            "ccore:stone_spear_planks",
             "ccore:stone_spear_wooden_spear",
-            "ccore:stone_spear_planks"
+            "minecraft:stone_spear"
         ]
     }
 }

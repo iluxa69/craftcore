@@ -48,8 +48,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:sandstone_stairs",
-            "ccore:sandstone_stairs_small"
+            "ccore:sandstone_stairs_small",
+            "minecraft:sandstone_stairs"
         ]
     }
 }

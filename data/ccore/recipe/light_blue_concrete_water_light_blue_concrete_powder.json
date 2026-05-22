@@ -7,11 +7,11 @@
         "minecraft:light_blue_concrete_powder",
         "minecraft:light_blue_concrete_powder",
         "minecraft:light_blue_concrete_powder",
-        "minecraft:water_bucket",
         "minecraft:light_blue_concrete_powder",
         "minecraft:light_blue_concrete_powder",
         "minecraft:light_blue_concrete_powder",
-        "minecraft:light_blue_concrete_powder"
+        "minecraft:light_blue_concrete_powder",
+        "minecraft:water_bucket"
     ],
     "result": {
         "count": 8,

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:pale_oak_door",
-            "ccore:pale_oak_door_logs"
+            "ccore:pale_oak_door_logs",
+            "minecraft:pale_oak_door"
         ]
     }
 }

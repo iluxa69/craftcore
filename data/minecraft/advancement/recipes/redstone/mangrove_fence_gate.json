@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_fence_gate",
             "ccore:mangrove_fence_gate_logs",
-            "ccore:mangrove_fence_gate_planks"
+            "ccore:mangrove_fence_gate_planks",
+            "minecraft:mangrove_fence_gate"
         ]
     }
 }

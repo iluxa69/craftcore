@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_door",
-            "ccore:mangrove_door_logs"
+            "ccore:mangrove_door_logs",
+            "minecraft:mangrove_door"
         ]
     }
 }

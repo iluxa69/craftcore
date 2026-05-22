@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cobblestone_stairs",
-            "ccore:cobblestone_stairs_small"
+            "ccore:cobblestone_stairs_small",
+            "minecraft:cobblestone_stairs"
         ]
     }
 }

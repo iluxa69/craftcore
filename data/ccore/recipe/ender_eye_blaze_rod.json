@@ -3,9 +3,9 @@
     "category": "misc",
     "group": "ender_eyes",
     "ingredients": [
+        "minecraft:blaze_rod",
         "minecraft:ender_pearl",
-        "minecraft:ender_pearl",
-        "minecraft:blaze_rod"
+        "minecraft:ender_pearl"
     ],
     "result": {
         "count": 2,

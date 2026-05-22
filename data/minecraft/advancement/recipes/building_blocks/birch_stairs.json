@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:birch_stairs",
             "ccore:birch_stairs_logs",
             "ccore:birch_stairs_small",
-            "ccore:birch_stairs_small_logs"
+            "ccore:birch_stairs_small_logs",
+            "minecraft:birch_stairs"
         ]
     }
 }

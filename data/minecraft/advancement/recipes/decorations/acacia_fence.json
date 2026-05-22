@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:acacia_fence",
             "ccore:acacia_fence_logs",
-            "ccore:acacia_fence_planks"
+            "ccore:acacia_fence_planks",
+            "minecraft:acacia_fence"
         ]
     }
 }

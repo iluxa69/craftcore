@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:blackstone_stairs",
-            "ccore:blackstone_stairs_small"
+            "ccore:blackstone_stairs_small",
+            "minecraft:blackstone_stairs"
         ]
     }
 }

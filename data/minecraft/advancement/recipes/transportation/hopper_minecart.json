@@ -26,13 +26,13 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:hopper_minecart",
             "ccore:hopper_minecart_chest_minecart",
             "ccore:hopper_minecart_hopper_barrel_iron",
             "ccore:hopper_minecart_hopper_chest_iron",
             "ccore:hopper_minecart_hopper_iron",
             "ccore:hopper_minecart_hopper_logs_iron",
-            "ccore:hopper_minecart_iron_block_logs"
+            "ccore:hopper_minecart_iron_block_logs",
+            "minecraft:hopper_minecart"
         ]
     }
 }

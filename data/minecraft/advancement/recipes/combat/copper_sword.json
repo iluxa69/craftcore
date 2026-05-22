@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_sword",
+            "ccore:copper_sword_stone_sword",
             "ccore:copper_sword_wooden_sword",
-            "ccore:copper_sword_stone_sword"
+            "minecraft:copper_sword"
         ]
     }
 }

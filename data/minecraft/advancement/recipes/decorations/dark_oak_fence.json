@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:dark_oak_fence",
             "ccore:dark_oak_fence_logs",
-            "ccore:dark_oak_fence_planks"
+            "ccore:dark_oak_fence_planks",
+            "minecraft:dark_oak_fence"
         ]
     }
 }

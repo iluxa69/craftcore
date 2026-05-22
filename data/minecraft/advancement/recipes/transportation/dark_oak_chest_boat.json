@@ -26,11 +26,11 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:dark_oak_chest_boat",
             "ccore:dark_oak_chest_boat_barrel",
             "ccore:dark_oak_chest_boat_boat_logs",
             "ccore:dark_oak_chest_boat_fast",
-            "ccore:dark_oak_chest_boat_planks_logs"
+            "ccore:dark_oak_chest_boat_planks_logs",
+            "minecraft:dark_oak_chest_boat"
         ]
     }
 }

@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:acacia_stairs",
             "ccore:acacia_stairs_logs",
             "ccore:acacia_stairs_small",
-            "ccore:acacia_stairs_small_logs"
+            "ccore:acacia_stairs_small_logs",
+            "minecraft:acacia_stairs"
         ]
     }
 }

@@ -2,8 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        "minecraft:fishing_rod",
-        "minecraft:carrot"
+        "minecraft:carrot",
+        "minecraft:fishing_rod"
     ],
     "result": {
         "count": 1,

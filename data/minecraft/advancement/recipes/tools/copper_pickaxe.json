@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_pickaxe",
-            "ccore:copper_pickaxe_wooden_pickaxe",
+            "ccore:copper_pickaxe_planks",
             "ccore:copper_pickaxe_stone_pickaxe",
-            "ccore:copper_pickaxe_planks"
+            "ccore:copper_pickaxe_wooden_pickaxe",
+            "minecraft:copper_pickaxe"
         ]
     }
 }

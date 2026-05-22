@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:diorite_stairs",
-            "ccore:diorite_stairs_small"
+            "ccore:diorite_stairs_small",
+            "minecraft:diorite_stairs"
         ]
     }
 }

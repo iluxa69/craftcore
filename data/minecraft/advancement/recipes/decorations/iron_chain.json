@@ -37,8 +37,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:iron_chain",
-            "ccore:iron_chain_plus"
+            "ccore:iron_chain_plus",
+            "minecraft:iron_chain"
         ]
     }
 }

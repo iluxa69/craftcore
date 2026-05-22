@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cherry_fence_gate",
             "ccore:cherry_fence_gate_logs",
-            "ccore:cherry_fence_gate_planks"
+            "ccore:cherry_fence_gate_planks",
+            "minecraft:cherry_fence_gate"
         ]
     }
 }

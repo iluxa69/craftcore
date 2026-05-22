@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_trapdoor",
-            "ccore:mangrove_trapdoor_logs"
+            "ccore:mangrove_trapdoor_logs",
+            "minecraft:mangrove_trapdoor"
         ]
     }
 }

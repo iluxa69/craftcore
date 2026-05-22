@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cartography_table",
-            "ccore:cartography_table_logs_and_c_table"
+            "ccore:cartography_table_logs_and_c_table",
+            "minecraft:cartography_table"
         ]
     }
 }

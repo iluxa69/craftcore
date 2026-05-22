@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_stairs",
             "ccore:mangrove_stairs_logs",
             "ccore:mangrove_stairs_small",
-            "ccore:mangrove_stairs_small_logs"
+            "ccore:mangrove_stairs_small_logs",
+            "minecraft:mangrove_stairs"
         ]
     }
 }

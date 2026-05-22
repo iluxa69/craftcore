@@ -48,8 +48,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:crossbow",
-            "ccore:crossbow_bow"
+            "ccore:crossbow_bow",
+            "minecraft:crossbow"
         ]
     }
 }

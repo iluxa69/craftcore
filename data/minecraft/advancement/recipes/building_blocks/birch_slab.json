@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:birch_slab",
-            "ccore:birch_slab_logs"
+            "ccore:birch_slab_logs",
+            "minecraft:birch_slab"
         ]
     }
 }

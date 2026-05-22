@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:golden_shovel",
             "ccore:golden_shovel_copper_shovel",
+            "ccore:golden_shovel_planks",
             "ccore:golden_shovel_stone_shovel",
-            "ccore:golden_shovel_planks"
+            "minecraft:golden_shovel"
         ]
     }
 }

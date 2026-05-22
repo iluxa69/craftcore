@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:crimson_slab",
-            "ccore:crimson_slab_stems"
+            "ccore:crimson_slab_stems",
+            "minecraft:crimson_slab"
         ]
     }
 }

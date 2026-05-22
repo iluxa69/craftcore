@@ -37,9 +37,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:stick",
+            "ccore:stick_bamboo_block",
             "ccore:stick_logs",
-            "ccore:stick_bamboo_block"
+            "minecraft:stick"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:bamboo_door",
-            "ccore:bamboo_door_bamboo_block"
+            "ccore:bamboo_door_bamboo_block",
+            "minecraft:bamboo_door"
         ]
     }
 }

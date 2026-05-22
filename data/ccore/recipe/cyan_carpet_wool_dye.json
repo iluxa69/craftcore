@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "carpet_wool_dye",
+    "group": "carpet",
     "key": {
         "#": [
             "minecraft:black_wool",
@@ -17,8 +17,8 @@
             "minecraft:pink_wool",
             "minecraft:purple_wool",
             "minecraft:red_wool",
-            "minecraft:yellow_wool",
-            "minecraft:white_wool"
+            "minecraft:white_wool",
+            "minecraft:yellow_wool"
         ],
         "D": "minecraft:cyan_dye"
     },

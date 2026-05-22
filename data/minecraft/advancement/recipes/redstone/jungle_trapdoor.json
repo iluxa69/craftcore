@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:jungle_trapdoor",
-            "ccore:jungle_trapdoor_logs"
+            "ccore:jungle_trapdoor_logs",
+            "minecraft:jungle_trapdoor"
         ]
     }
 }

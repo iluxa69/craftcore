@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:spruce_trapdoor",
-            "ccore:spruce_trapdoor_logs"
+            "ccore:spruce_trapdoor_logs",
+            "minecraft:spruce_trapdoor"
         ]
     }
 }

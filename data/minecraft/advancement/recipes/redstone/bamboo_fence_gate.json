@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:bamboo_fence_gate",
             "ccore:bamboo_fence_gate_bamboo_block",
-            "ccore:bamboo_fence_gate_planks"
+            "ccore:bamboo_fence_gate_planks",
+            "minecraft:bamboo_fence_gate"
         ]
     }
 }

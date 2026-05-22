@@ -5,8 +5,8 @@
     "key": {
         "#": "minecraft:stick",
         "X": [
-            "minecraft:coal",
-            "minecraft:charcoal"
+            "minecraft:charcoal",
+            "minecraft:coal"
         ]
     },
     "pattern": [

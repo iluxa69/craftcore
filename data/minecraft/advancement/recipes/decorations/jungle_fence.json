@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:jungle_fence",
             "ccore:jungle_fence_logs",
-            "ccore:jungle_fence_planks"
+            "ccore:jungle_fence_planks",
+            "minecraft:jungle_fence"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:diamond_axe",
-            "ccore:diamond_axe_planks"
+            "ccore:diamond_axe_planks",
+            "minecraft:diamond_axe"
         ]
     }
 }

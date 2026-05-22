@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:crimson_door",
-            "ccore:crimson_door_stems"
+            "ccore:crimson_door_stems",
+            "minecraft:crimson_door"
         ]
     }
 }

@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:jungle_stairs",
             "ccore:jungle_stairs_logs",
             "ccore:jungle_stairs_small",
-            "ccore:jungle_stairs_small_logs"
+            "ccore:jungle_stairs_small_logs",
+            "minecraft:jungle_stairs"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:warped_trapdoor",
-            "ccore:warped_trapdoor_stems"
+            "ccore:warped_trapdoor_stems",
+            "minecraft:warped_trapdoor"
         ]
     }
 }

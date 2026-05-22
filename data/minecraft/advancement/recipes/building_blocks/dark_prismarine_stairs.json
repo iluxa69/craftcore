@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:dark_prismarine_stairs",
-            "ccore:dark_prismarine_stairs_small"
+            "ccore:dark_prismarine_stairs_small",
+            "minecraft:dark_prismarine_stairs"
         ]
     }
 }

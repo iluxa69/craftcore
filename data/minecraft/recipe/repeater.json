@@ -5,8 +5,8 @@
     "key": {
         "#": "minecraft:redstone_torch",
         "I": [
-            "minecraft:stone",
-            "minecraft:deepslate"
+            "minecraft:deepslate",
+            "minecraft:stone"
         ],
         "X": "minecraft:redstone"
     },

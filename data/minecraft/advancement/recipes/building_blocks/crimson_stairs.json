@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:crimson_stairs",
             "ccore:crimson_stairs_small",
             "ccore:crimson_stairs_small_stems",
-            "ccore:crimson_stairs_stems"
+            "ccore:crimson_stairs_stems",
+            "minecraft:crimson_stairs"
         ]
     }
 }

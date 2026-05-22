@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:glass_bottle",
-            "ccore:glass_bottle_glass_pane"
+            "ccore:glass_bottle_glass_pane",
+            "minecraft:glass_bottle"
         ]
     }
 }

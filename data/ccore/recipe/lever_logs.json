@@ -3,14 +3,14 @@
     "category": "redstone",
     "group": "levers",
     "ingredients": [
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
         "#minecraft:logs",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
         "minecraft:cobblestone"
     ],
     "result": {

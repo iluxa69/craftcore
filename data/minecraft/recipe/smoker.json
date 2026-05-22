@@ -4,8 +4,8 @@
     "key": {
         "#": "#ccore:natural_logs_crafting",
         "X": [
-            "minecraft:furnace",
-            "minecraft:blast_furnace"
+            "minecraft:blast_furnace",
+            "minecraft:furnace"
         ]
     },
     "pattern": [

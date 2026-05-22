@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:warped_fence_gate",
             "ccore:warped_fence_gate_planks",
-            "ccore:warped_fence_gate_stems"
+            "ccore:warped_fence_gate_stems",
+            "minecraft:warped_fence_gate"
         ]
     }
 }

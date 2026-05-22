@@ -3,8 +3,8 @@
     "category": "misc",
     "group": "cherry_chest_boats",
     "ingredients": [
-        "minecraft:chest",
-        "minecraft:cherry_boat"
+        "minecraft:cherry_boat",
+        "minecraft:chest"
     ],
     "result": {
         "count": 1,

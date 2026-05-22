@@ -3,8 +3,8 @@
     "category": "misc",
     "group": "birch_chest_boats",
     "ingredients": [
-        "minecraft:chest",
-        "minecraft:birch_boat"
+        "minecraft:birch_boat",
+        "minecraft:chest"
     ],
     "result": {
         "count": 1,

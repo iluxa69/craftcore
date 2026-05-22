@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:tnt_minecart",
-            "ccore:tnt_minecart_tnt_iron"
+            "ccore:tnt_minecart_tnt_iron",
+            "minecraft:tnt_minecart"
         ]
     }
 }

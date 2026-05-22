@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:acacia_slab",
-            "ccore:acacia_slab_logs"
+            "ccore:acacia_slab_logs",
+            "minecraft:acacia_slab"
         ]
     }
 }

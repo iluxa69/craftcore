@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:iron_shovel",
-            "ccore:iron_shovel_stone_shovel",
             "ccore:iron_shovel_copper_shovel",
-            "ccore:iron_shovel_planks"
+            "ccore:iron_shovel_planks",
+            "ccore:iron_shovel_stone_shovel",
+            "minecraft:iron_shovel"
         ]
     }
 }

@@ -26,11 +26,11 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mangrove_chest_boat",
             "ccore:mangrove_chest_boat_barrel",
             "ccore:mangrove_chest_boat_boat_logs",
             "ccore:mangrove_chest_boat_fast",
-            "ccore:mangrove_chest_boat_planks_logs"
+            "ccore:mangrove_chest_boat_planks_logs",
+            "minecraft:mangrove_chest_boat"
         ]
     }
 }

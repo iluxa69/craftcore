@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:hopper",
+            "ccore:hopper_barrel",
             "ccore:hopper_logs",
-            "ccore:hopper_barrel"
+            "minecraft:hopper"
         ]
     }
 }

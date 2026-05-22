@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:loom",
-            "ccore:loom_slabs"
+            "ccore:loom_slabs",
+            "minecraft:loom"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:jungle_slab",
-            "ccore:jungle_slab_logs"
+            "ccore:jungle_slab_logs",
+            "minecraft:jungle_slab"
         ]
     }
 }

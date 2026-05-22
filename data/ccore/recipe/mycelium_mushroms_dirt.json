@@ -6,11 +6,11 @@
         "#ccore:mushrooms",
         "#ccore:mushrooms",
         "#ccore:mushrooms",
-        "minecraft:dirt",
         "#ccore:mushrooms",
         "#ccore:mushrooms",
         "#ccore:mushrooms",
-        "#ccore:mushrooms"
+        "#ccore:mushrooms",
+        "minecraft:dirt"
     ],
     "result": {
         "count": 1,

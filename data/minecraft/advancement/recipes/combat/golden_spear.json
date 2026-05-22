@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:golden_spear",
             "ccore:golden_spear_copper_spear",
+            "ccore:golden_spear_planks",
             "ccore:golden_spear_stone_spear",
-            "ccore:golden_spear_planks"
+            "minecraft:golden_spear"
         ]
     }
 }

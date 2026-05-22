@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:crimson_fence",
+            "ccore:crimson_fence_planks",
             "ccore:crimson_fence_stems",
-            "ccore:crimson_fence_planks"
+            "minecraft:crimson_fence"
         ]
     }
 }

@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:note_block",
             "ccore:note_block_logs",
-            "ccore:note_block_logs2"
+            "ccore:note_block_logs2",
+            "minecraft:note_block"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:diamond_spear",
-            "ccore:diamond_spear_planks"
+            "ccore:diamond_spear_planks",
+            "minecraft:diamond_spear"
         ]
     }
 }

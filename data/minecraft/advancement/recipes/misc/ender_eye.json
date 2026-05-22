@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:ender_eye",
-            "ccore:ender_eye_blaze_rod"
+            "ccore:ender_eye_blaze_rod",
+            "minecraft:ender_eye"
         ]
     }
 }

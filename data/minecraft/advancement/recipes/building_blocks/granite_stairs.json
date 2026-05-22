@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:granite_stairs",
-            "ccore:granite_stairs_small"
+            "ccore:granite_stairs_small",
+            "minecraft:granite_stairs"
         ]
     }
 }

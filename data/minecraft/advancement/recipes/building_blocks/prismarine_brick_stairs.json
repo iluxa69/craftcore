@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:prismarine_brick_stairs",
-            "ccore:prismarine_brick_stairs_small"
+            "ccore:prismarine_brick_stairs_small",
+            "minecraft:prismarine_brick_stairs"
         ]
     }
 }

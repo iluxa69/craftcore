@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:andesite_stairs",
-            "ccore:andesite_stairs_small"
+            "ccore:andesite_stairs_small",
+            "minecraft:andesite_stairs"
         ]
     }
 }

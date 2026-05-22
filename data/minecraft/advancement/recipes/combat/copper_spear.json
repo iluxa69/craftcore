@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_spear",
-            "ccore:copper_spear_wooden_spear",
+            "ccore:copper_spear_planks",
             "ccore:copper_spear_stone_spear",
-            "ccore:copper_spear_planks"
+            "ccore:copper_spear_wooden_spear",
+            "minecraft:copper_spear"
         ]
     }
 }

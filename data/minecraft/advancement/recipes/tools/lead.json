@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:lead",
-            "ccore:lead_slime"
+            "ccore:lead_slime",
+            "minecraft:lead"
         ]
     }
 }

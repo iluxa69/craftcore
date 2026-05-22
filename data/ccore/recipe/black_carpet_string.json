@@ -3,6 +3,7 @@
     "category": "misc",
     "group": "carpet_wool_string",
     "ingredients": [
+        "minecraft:black_dye",
         "minecraft:string",
         "minecraft:string",
         "minecraft:string",
@@ -10,8 +11,7 @@
         "minecraft:string",
         "minecraft:string",
         "minecraft:string",
-        "minecraft:string",
-        "minecraft:black_dye"
+        "minecraft:string"
     ],
     "result": {
         "count": 3,

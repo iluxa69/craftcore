@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:oak_stairs",
             "ccore:oak_stairs_logs",
             "ccore:oak_stairs_small",
-            "ccore:oak_stairs_small_logs"
+            "ccore:oak_stairs_small_logs",
+            "minecraft:oak_stairs"
         ]
     }
 }

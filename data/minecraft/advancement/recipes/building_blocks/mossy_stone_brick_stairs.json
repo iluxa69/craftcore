@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:mossy_stone_brick_stairs",
-            "ccore:mossy_stone_brick_stairs_small"
+            "ccore:mossy_stone_brick_stairs_small",
+            "minecraft:mossy_stone_brick_stairs"
         ]
     }
 }

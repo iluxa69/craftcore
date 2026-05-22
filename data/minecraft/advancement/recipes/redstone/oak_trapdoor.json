@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:oak_trapdoor",
-            "ccore:oak_trapdoor_logs"
+            "ccore:oak_trapdoor_logs",
+            "minecraft:oak_trapdoor"
         ]
     }
 }

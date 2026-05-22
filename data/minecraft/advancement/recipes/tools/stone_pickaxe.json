@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:stone_pickaxe",
+            "ccore:stone_pickaxe_planks",
             "ccore:stone_pickaxe_wooden_pickaxe",
-            "ccore:stone_pickaxe_planks"
+            "minecraft:stone_pickaxe"
         ]
     }
 }

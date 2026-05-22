@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:polished_blackstone_brick_stairs",
-            "ccore:polished_blackstone_brick_stairs_small"
+            "ccore:polished_blackstone_brick_stairs_small",
+            "minecraft:polished_blackstone_brick_stairs"
         ]
     }
 }

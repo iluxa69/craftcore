@@ -3,11 +3,11 @@
     "category": "misc",
     "group": "shulker_box_dye_shulker_shell",
     "ingredients": [
-        "minecraft:shulker_shell",
-        "minecraft:barrel",
         "#minecraft:planks",
+        "minecraft:barrel",
+        "minecraft:magenta_dye",
         "minecraft:shulker_shell",
-        "minecraft:magenta_dye"
+        "minecraft:shulker_shell"
     ],
     "result": {
         "count": 1,

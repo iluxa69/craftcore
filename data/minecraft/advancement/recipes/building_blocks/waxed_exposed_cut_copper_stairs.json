@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:waxed_exposed_cut_copper_stairs",
-            "ccore:waxed_exposed_cut_copper_stairs_small"
+            "ccore:waxed_exposed_cut_copper_stairs_small",
+            "minecraft:waxed_exposed_cut_copper_stairs"
         ]
     }
 }

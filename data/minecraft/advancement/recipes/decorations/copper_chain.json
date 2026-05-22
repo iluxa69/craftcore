@@ -37,8 +37,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_chain",
-            "ccore:copper_chain_plus"
+            "ccore:copper_chain_plus",
+            "minecraft:copper_chain"
         ]
     }
 }

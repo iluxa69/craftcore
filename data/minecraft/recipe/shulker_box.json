@@ -3,8 +3,8 @@
     "category": "misc",
     "group": "shulker_box",
     "ingredients": [
-        "minecraft:shulker_shell",
         "minecraft:chest",
+        "minecraft:shulker_shell",
         "minecraft:shulker_shell"
     ],
     "result": {

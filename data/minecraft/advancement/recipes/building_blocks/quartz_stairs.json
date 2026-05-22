@@ -48,8 +48,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:quartz_stairs",
-            "ccore:quartz_stairs_small"
+            "ccore:quartz_stairs_small",
+            "minecraft:quartz_stairs"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:trapped_chest",
-            "ccore:trapped_chest_planks"
+            "ccore:trapped_chest_planks",
+            "minecraft:trapped_chest"
         ]
     }
 }

@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:torch",
+            "ccore:torch_logs",
             "ccore:torch_planks",
-            "ccore:torch_logs"
+            "minecraft:torch"
         ]
     }
 }

@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:smooth_quartz_stairs",
-            "ccore:smooth_quartz_stairs_small"
+            "ccore:smooth_quartz_stairs_small",
+            "minecraft:smooth_quartz_stairs"
         ]
     }
 }

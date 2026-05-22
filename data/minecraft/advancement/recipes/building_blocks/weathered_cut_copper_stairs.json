@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:weathered_cut_copper_stairs",
-            "ccore:weathered_cut_copper_stairs_small"
+            "ccore:weathered_cut_copper_stairs_small",
+            "minecraft:weathered_cut_copper_stairs"
         ]
     }
 }

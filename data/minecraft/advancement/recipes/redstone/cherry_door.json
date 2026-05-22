@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:cherry_door",
-            "ccore:cherry_door_logs"
+            "ccore:cherry_door_logs",
+            "minecraft:cherry_door"
         ]
     }
 }

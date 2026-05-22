@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:spruce_fence_gate",
             "ccore:spruce_fence_gate_logs",
-            "ccore:spruce_fence_gate_planks"
+            "ccore:spruce_fence_gate_planks",
+            "minecraft:spruce_fence_gate"
         ]
     }
 }

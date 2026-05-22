@@ -3,8 +3,8 @@
     "category": "misc",
     "group": "acacia_chest_boats",
     "ingredients": [
-        "minecraft:chest",
-        "minecraft:acacia_boat"
+        "minecraft:acacia_boat",
+        "minecraft:chest"
     ],
     "result": {
         "count": 1,

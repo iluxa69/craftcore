@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:oxidized_cut_copper_stairs",
-            "ccore:oxidized_cut_copper_stairs_small"
+            "ccore:oxidized_cut_copper_stairs_small",
+            "minecraft:oxidized_cut_copper_stairs"
         ]
     }
 }

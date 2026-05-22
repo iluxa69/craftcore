@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:purpur_stairs",
-            "ccore:purpur_stairs_small"
+            "ccore:purpur_stairs_small",
+            "minecraft:purpur_stairs"
         ]
     }
 }

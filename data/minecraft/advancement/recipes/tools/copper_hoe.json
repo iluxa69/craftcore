@@ -26,10 +26,10 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_hoe",
-            "ccore:copper_hoe_wooden_hoe",
+            "ccore:copper_hoe_planks",
             "ccore:copper_hoe_stone_hoe",
-            "ccore:copper_hoe_planks"
+            "ccore:copper_hoe_wooden_hoe",
+            "minecraft:copper_hoe"
         ]
     }
 }

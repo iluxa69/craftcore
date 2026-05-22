@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
+            "ccore:lever_logs",
             "minecraft:lever",
-            "minecraft:lever2",
-            "ccore:lever_logs"
+            "minecraft:lever2"
         ]
     }
 }

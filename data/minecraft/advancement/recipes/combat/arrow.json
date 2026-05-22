@@ -37,9 +37,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:arrow",
             "ccore:arrow_alternative",
-            "ccore:arrow_more"
+            "ccore:arrow_more",
+            "minecraft:arrow"
         ]
     }
 }

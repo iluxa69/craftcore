@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:acacia_door",
-            "ccore:acacia_door_logs"
+            "ccore:acacia_door_logs",
+            "minecraft:acacia_door"
         ]
     }
 }

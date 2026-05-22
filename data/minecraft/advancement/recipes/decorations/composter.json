@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:composter",
             "ccore:composter_logs",
-            "ccore:composter_planks"
+            "ccore:composter_planks",
+            "minecraft:composter"
         ]
     }
 }

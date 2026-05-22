@@ -26,9 +26,9 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chest",
+            "ccore:chest_bamboo_planks",
             "ccore:chest_logs",
-            "ccore:chest_bamboo_planks"
+            "minecraft:chest"
         ]
     }
 }
