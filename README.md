@@ -9,12 +9,12 @@
 <td valign="top">
 <h1>CraftCore</h1>
 <img src="https://img.shields.io/badge/Type-Datapack%20%2B%20Mod-orange?style=for-the-badge" alt="Datapack + Mod">
-<a href="https://modrinth.com/datapack/craftscore#download" target="_blank">
-<img src="https://img.shields.io/modrinth/game-versions/craftscore?style=for-the-badge&label=Versions&logo=modrinth" alt="Minecraft Versions">
-</a>
-<br>
 <a href="https://github.com/iluxa69/craftcore/releases">
 <img src="https://img.shields.io/github/v/release/iluxa69/CraftCore?style=for-the-badge&logo=github&color=#000000" alt="GitHub releases">
+</a>
+<br>
+<a href="https://modrinth.com/datapack/craftscore#download" target="_blank">
+<img src="https://img.shields.io/modrinth/game-versions/craftscore?style=for-the-badge&label=Versions&logo=modrinth" alt="Minecraft Versions">
 </a>
 </td>
 </tr>
