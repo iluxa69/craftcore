@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
         "E": "minecraft:ender_eye",
-        "G": "minecraft:glass",
+        "G": "#ccore:colored_glass",
         "T": "minecraft:ghast_tear"
     },
     "pattern": [

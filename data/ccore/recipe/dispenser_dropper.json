@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "redstone",
+    "group": "dispensers",
+    "ingredients": [
+        "minecraft:dropper",
+        "#ccore:bows"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:dispenser"
+    }
+}

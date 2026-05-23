@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "category": "misc",
     "key": {
-        "G": "minecraft:glass",
+        "G": "#ccore:colored_glass",
         "O": "#ccore:obsidians_craft",
         "S": "minecraft:nether_star"
     },
