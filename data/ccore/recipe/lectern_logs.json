@@ -4,7 +4,7 @@
     "group": "lecterns",
     "key": {
         "L": "#minecraft:logs",
-        "B": "#minecraft:bookshelf_books"
+        "B": "#ccore:books"
     },
     "pattern": [
         " L ",

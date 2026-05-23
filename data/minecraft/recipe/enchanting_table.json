@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
         "#": "#ccore:obsidians_craft",
-        "B": "#minecraft:bookshelf_books",
+        "B": "#ccore:books",
         "D": "minecraft:diamond"
     },
     "pattern": [
