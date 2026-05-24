@@ -6,8 +6,8 @@
         "#": "minecraft:stick",
         "S": "#minecraft:soul_fire_base_blocks",
         "X": [
-            "minecraft:coal",
-            "minecraft:charcoal"
+            "minecraft:charcoal",
+            "minecraft:coal"
         ]
     },
     "pattern": [

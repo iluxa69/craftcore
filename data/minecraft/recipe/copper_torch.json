@@ -6,8 +6,8 @@
         "#": "minecraft:stick",
         "C": "minecraft:copper_nugget",
         "X": [
-            "minecraft:coal",
-            "minecraft:charcoal"
+            "minecraft:charcoal",
+            "minecraft:coal"
         ]
     },
     "pattern": [

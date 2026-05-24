@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:copper_torch",
-            "ccore:copper_torch_torches"
+            "ccore:copper_torch_torches",
+            "minecraft:copper_torch"
         ]
     }
 }

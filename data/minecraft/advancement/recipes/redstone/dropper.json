@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:dropper",
-            "ccore:dropper_dispenser"
+            "ccore:dropper_dispenser",
+            "minecraft:dropper"
         ]
     }
 }

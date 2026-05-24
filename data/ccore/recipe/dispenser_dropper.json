@@ -3,8 +3,8 @@
     "category": "redstone",
     "group": "dispensers",
     "ingredients": [
-        "minecraft:dropper",
-        "#ccore:bows"
+        "#ccore:bows",
+        "minecraft:dropper"
     ],
     "result": {
         "count": 1,

@@ -6,9 +6,9 @@
         "I": "minecraft:iron_ingot"
     },
     "pattern": [
-        "C C",
-        "III",
-        "III"
+        "I I",
+        "CIC",
+        "CIC"
     ],
     "result": {
         "count": 1,

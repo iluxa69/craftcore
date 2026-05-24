@@ -26,8 +26,8 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:soul_torch",
-            "ccore:soul_torch_torches"
+            "ccore:soul_torch_torches",
+            "minecraft:soul_torch"
         ]
     }
 }

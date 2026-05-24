@@ -26,12 +26,12 @@
     ],
     "rewards": {
         "recipes": [
-            "ccore:note_block_logs",
-            "ccore:note_block_logs2",
-            "minecraft:note_block",
+            "ccore:note_block_diamond_barrel",
             "ccore:note_block_diamond_chest",
             "ccore:note_block_diamond_jukebox",
-            "ccore:note_block_diamond_barrel"
+            "ccore:note_block_logs",
+            "ccore:note_block_logs2",
+            "minecraft:note_block"
         ]
     }
 }

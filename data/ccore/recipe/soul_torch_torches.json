@@ -5,8 +5,8 @@
     "key": {
         "S": "#minecraft:soul_fire_base_blocks",
         "T": [
-            "minecraft:torch",
-            "minecraft:copper_torch"
+            "minecraft:copper_torch",
+            "minecraft:torch"
         ]
     },
     "pattern": [

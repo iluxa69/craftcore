@@ -3,9 +3,9 @@
     "category": "redstone",
     "group": "note_blocks",
     "ingredients": [
-        "minecraft:redstone",
+        "#minecraft:planks",
         "minecraft:barrel",
-        "#minecraft:planks"
+        "minecraft:redstone"
     ],
     "result": {
         "count": 1,

@@ -5,8 +5,8 @@
     "key": {
         "C": "minecraft:copper_nugget",
         "T": [
-            "minecraft:torch",
-            "minecraft:soul_torch"
+            "minecraft:soul_torch",
+            "minecraft:torch"
         ]
     },
     "pattern": [

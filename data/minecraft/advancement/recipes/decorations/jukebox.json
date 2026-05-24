@@ -26,12 +26,12 @@
     ],
     "rewards": {
         "recipes": [
+            "ccore:jukebox_diamond_barrel",
+            "ccore:jukebox_diamond_chest",
+            "ccore:jukebox_diamond_note_block",
             "ccore:jukebox_logs",
             "ccore:jukebox_logs2",
-            "minecraft:jukebox",
-            "ccore:jukebox_diamond_note_block",
-            "ccore:jukebox_diamond_chest",
-            "ccore:jukebox_diamond_barrel"
+            "minecraft:jukebox"
         ]
     }
 }
