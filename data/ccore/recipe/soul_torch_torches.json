@@ -1,21 +1,21 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "misc",
-	"group": "soul_torches",
-	"key": {
-		"S": "#minecraft:soul_fire_base_blocks",
-		"T": [
-			"minecraft:torch",
-			"minecraft:copper_torch"
-		]
-	},
-	"pattern": [
-		"TT",
-		"TT",
-		" S"
-	],
-	"result": {
-		"count": 4,
-		"id": "minecraft:soul_torch"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "soul_torches",
+    "key": {
+        "S": "#minecraft:soul_fire_base_blocks",
+        "T": [
+            "minecraft:torch",
+            "minecraft:copper_torch"
+        ]
+    },
+    "pattern": [
+        "TT",
+        "TT",
+        " S"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:soul_torch"
+    }
 }

@@ -1,18 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "redstone",
-	"group": "droppers",
-	"key": {
-		"S": "#ccore:stone_crafting_redstone",
-		"R": "minecraft:redstone"
-	},
-	"pattern": [
-		"SSS",
-		"S S",
-		"SRS"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:dropper"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "droppers",
+    "key": {
+        "S": "#ccore:stone_crafting_redstone",
+        "R": "minecraft:redstone"
+    },
+    "pattern": [
+        "SSS",
+        "S S",
+        "SRS"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:dropper"
+    }
 }

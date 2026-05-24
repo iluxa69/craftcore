@@ -1,21 +1,21 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "misc",
-	"group": "copper_torches",
-	"key": {
-		"C": "minecraft:copper_nugget",
-		"T": [
-			"minecraft:torch",
-			"minecraft:soul_torch"
-		]
-	},
-	"pattern": [
-		" C",
-		"TT",
-		"TT"
-	],
-	"result": {
-		"count": 4,
-		"id": "minecraft:copper_torch"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "copper_torches",
+    "key": {
+        "C": "minecraft:copper_nugget",
+        "T": [
+            "minecraft:torch",
+            "minecraft:soul_torch"
+        ]
+    },
+    "pattern": [
+        " C",
+        "TT",
+        "TT"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:copper_torch"
+    }
 }

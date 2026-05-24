@@ -1,13 +1,13 @@
 {
-	"type": "minecraft:crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
     "category": "redstone",
     "group": "note_blocks",
-	"ingredients": [
-		"minecraft:jukebox",
-		"minecraft:redstone"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:note_block"
-	}
+    "ingredients": [
+        "minecraft:jukebox",
+        "minecraft:redstone"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:note_block"
+    }
 }

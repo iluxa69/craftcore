@@ -1,37 +1,37 @@
 {
-	"parent": "minecraft:recipes/root",
-	"criteria": {
-		"has_redstone": {
-			"conditions": {
-				"items": [
-					{
-						"items": "minecraft:redstone"
-					}
-				]
-			},
-			"trigger": "minecraft:inventory_changed"
-		},
-		"has_the_recipe": {
-			"conditions": {
-				"recipe": "minecraft:note_block"
-			},
-			"trigger": "minecraft:recipe_unlocked"
-		}
-	},
-	"requirements": [
-		[
-			"has_the_recipe",
-			"has_redstone"
-		]
-	],
-	"rewards": {
-		"recipes": [
-			"ccore:note_block_logs",
-			"ccore:note_block_logs2",
-			"minecraft:note_block",
-			"ccore:note_block_diamond_chest",
-			"ccore:note_block_diamond_jukebox",
-			"ccore:note_block_diamond_barrel"
-		]
-	}
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_redstone": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:redstone"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "minecraft:note_block"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_redstone"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:note_block_logs",
+            "ccore:note_block_logs2",
+            "minecraft:note_block",
+            "ccore:note_block_diamond_chest",
+            "ccore:note_block_diamond_jukebox",
+            "ccore:note_block_diamond_barrel"
+        ]
+    }
 }
