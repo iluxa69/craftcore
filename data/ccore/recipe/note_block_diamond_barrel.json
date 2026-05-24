@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+    "category": "redstone",
+    "group": "note_blocks",
+	"ingredients": [
+		"minecraft:redstone",
+		"minecraft:barrel",
+		"#minecraft:planks"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:note_block"
+	}
+}

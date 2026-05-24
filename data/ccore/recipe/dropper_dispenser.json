@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "redstone",
+	"group": "droppers",
+	"ingredients": [
+		"minecraft:dispenser"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:dropper"
+	}
+}

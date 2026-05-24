@@ -13,7 +13,7 @@
 		},
 		"has_the_recipe": {
 			"conditions": {
-				"recipe": "minecraft:note_block"
+				"recipe": "minecraft:dropper"
 			},
 			"trigger": "minecraft:recipe_unlocked"
 		}
@@ -26,12 +26,8 @@
 	],
 	"rewards": {
 		"recipes": [
-			"ccore:note_block_logs",
-			"ccore:note_block_logs2",
-			"minecraft:note_block",
-			"ccore:note_block_diamond_chest",
-			"ccore:note_block_diamond_jukebox",
-			"ccore:note_block_diamond_barrel"
+			"minecraft:dropper",
+			"ccore:dropper_dispenser"
 		]
 	}
 }
