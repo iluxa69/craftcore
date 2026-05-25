@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_item": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:stone"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "ccore:stonecutting/stone/c_stone_button_stone"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:stonecutting/stone/c_stone_button_stone"
+        ]
+    }
+}

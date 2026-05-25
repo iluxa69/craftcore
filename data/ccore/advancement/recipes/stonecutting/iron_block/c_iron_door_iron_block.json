@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_item": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:iron_block"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "ccore:stonecutting/iron_block/c_iron_door_iron_block"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:stonecutting/iron_block/c_iron_door_iron_block"
+        ]
+    }
+}
