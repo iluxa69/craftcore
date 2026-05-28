@@ -152,17 +152,6 @@
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/chipped_anvil_fix.png" alt="Repairing a Chipped Anvil">
 </details>
 
-<details>
-<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Red_Dye_JE4_BE4.png" width="32" alt="Red Dye"> Quick crafting for colored items</summary>
-<br>
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/white_bundle_dye.png" alt="Crafting White Bundle with white dye">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_carpet_string_dye.png" alt="Crafting purple carpet from string and purple dye">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_wool_string_dye.png" alt="Crafting purple wool from string and purple dye">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_harness_craft_dye.png" alt="Crafting Orange Harness">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_stained_glass_pane_dye.png" alt="Crafting Magenta Stained Glass Panes from glass and dye">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_shulker_craft_dye.png" alt="Crafting Magenta Shulker Box">
-</details>
-
 <h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Knowledge_Book_JE2.png" width="32" alt="Knowledge Book"> Quality of Life Recipes</h2>
 
 <details>
@@ -203,6 +192,17 @@
 <summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Orange_Concrete.png" width="32" alt="Orange Concrete"> Concrete in the Crafting Table</summary>
 <br>
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_concrete_powder_water.png" alt="Crafting Orange Concrete from water and concrete powder">
+</details>
+
+<details>
+<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Red_Dye_JE4_BE4.png" width="32" alt="Red Dye"> Quick crafting for colored items</summary>
+<br>
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/white_bundle_dye.png" alt="Crafting White Bundle with white dye">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_carpet_string_dye.png" alt="Crafting purple carpet from string and purple dye">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_wool_string_dye.png" alt="Crafting purple wool from string and purple dye">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_harness_craft_dye.png" alt="Crafting Orange Harness">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_stained_glass_pane_dye.png" alt="Crafting Magenta Stained Glass Panes from glass and dye">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_shulker_craft_dye.png" alt="Crafting Magenta Shulker Box">
 </details>
 
 <details>
