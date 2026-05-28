@@ -3,7 +3,7 @@
 </div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="145" align="center" valign="center">
+    <td width="145" align="center" valign="middle">
       <img src="https://github.com/iluxa69/craftcore/raw/main/pack.png" width="128" alt="CraftCore Logo">
     </td>
     <td valign="top">
@@ -152,6 +152,17 @@
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/chipped_anvil_fix.png" alt="Починка Поврежденной Наковальни">
 </details>
 
+<details>
+<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Red_Dye_JE4_BE4.png" width="32" alt="Красный краситель"> Быстрый крафт цветных предметов</summary>
+<br>
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/white_bundle_dye.png" alt="Крафт Белого мешка из белого красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_carpet_string_dye.png" alt="Крафт Фиолетового ковра из нитей и Фиолетового красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_wool_string_dye.png" alt="Крафт Фиолетовой шерсти из нитей и Фиолетового красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_harness_craft_dye.png" alt="Крафт оранжевой упряжки">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_stained_glass_pane_dye.png" alt="Крафт пурпурных панелей из стекла и красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_shulker_craft_dye.png" alt="Крафт пурпурного шалкера">
+</details>
+
 <h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Knowledge_Book_JE2.png" width="32" alt="Книга знаний"> Quality of Life Рецепты</h2>
 
 <details>
@@ -177,7 +188,7 @@
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/iron_shovel_planks.png" alt="Железная Лопата с доской вместо палок">
 <br>
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/copper_spear_planks.png" alt="Медное Копье с доской вместо палок">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/diamod_axe_planks.png" alt="Алмазный Топор с доской вместо палок">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/diamond_axe_planks.png" alt="Алмазный Топор с доской вместо палок">
 <p><sub>В некоторых рецептах доска смещена на одну клетку для предотвращения крафта в инвентаре (в сетке 2x2)</sub></p>
 </details>
 
@@ -185,6 +196,13 @@
 <summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Minecart_with_Hopper_JE2_BE2.png" width="32" alt="Грузовая вагонетка"> Грузовая вагонетка</summary>
 <br>
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/hopper_minecart_crafts.png" alt="Крафты грузовой вагонетки">
+</details>
+
+
+<details>
+<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Orange_Concrete.png" width="32" alt="Оранжевый бетон"> Бетон на Верстаке</summary>
+<br>
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_concrete_powder_water.png" alt="Крафт оранжевого бетона из воды и сухого бетона">
 </details>
 
 <details>
@@ -713,9 +731,39 @@
 </details>
 
 <h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Recipe_book_button.png" width="32" alt="Книга рецептов"> Интеграция в систему рецептов</h2>
-<p>В отличие от большинства датапаков, которые просто добавляют новые крафты, здесь реализована полная интеграция в advancement/recipes. Это значит, что не нужно постоянно лезть на эту страницу, чтобы узнать рецепт. Все новые крафты будут открываться точно так же, как и в ванильном Minecraft — при получении нужного ингредиента или при каком-либо действии.</p>
+<p>В отличие от большинства датапаков, которые просто добавляют новые крафты, здесь реализована полная интеграция в advancement/recipes. Это значит, что не нужно постоянно лезть на эту страницу, чтобы узнать рецепт. Все новые крафты будут открываться точно так же, как и в ванильном Minecraft — при получении нужного ингредиента.</p>
 
-<h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Teleport_to_player.png" width="32"> Обратная связь</h2>
+<h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Accessibility.png" width="30" alt="Модульность"> Модульность</h2>
+<p>В проекте реализована удобная система модулей. Если вам не нужны определённые рецепты или целые категории крафтов, вы можете легко удалить их, просто стерев соответствующую папку из архива.</p>
+
+<details>
+<summary><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Stonecutter_JE2_BE1.gif" align="center" width="32" alt="Камнерез"> Инструкция по удалению модулей (на примере камнереза)</summary>
+<br>
+<p>Если вы хотите полностью отключить все новые рецепты для <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Stonecutter_JE2_BE1.gif" align="center" width="32" alt="Камнерез"> Камнереза, выполните следующие шаги:</p>
+<ol>
+  <li>Откройте <code>.jar</code> или <code>.zip</code> файл датапака с помощью любого архиватора (например, 7-Zip или WinRAR).</li>
+  <li>Перейдите по пути <code>data/ccore/recipe/stonecutting</code> и удалите папку <code>stonecutting</code>.</li>
+  <li>Перейдите по пути <code>data/ccore/advancement/recipes/stonecutting</code> и также удалите папку <code>stonecutting</code> (это предотвратит появление логов ошибок в консоли сервера).</li>
+  <li>Выполните команду <code>/reload</code> в игре или перезагрузите сервер, чтобы применить изменения.</li>
+</ol>
+
+<h3>Как устроена структура файлов:</h3>
+<p>Внутренняя структура полностью идентична как для папки рецептов (<code>recipe</code>), так и для условий их открытия в книге крафтов (<code>advancement</code>). Корневые папки разделены по способу создания предметов:</p>
+<ul>
+  <li><code>crafting</code> — <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Crafting_Table_JE4_BE3.png" align="center" width="32" alt="Верстак"> Верстак и сетка крафта в инвентаре;</li>
+  <li><code>stonecutting</code> — <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Stonecutter_JE2_BE1.gif" align="center" width="32" alt="Камнерез"> Камнерез;</li>
+  <li><code>blasting</code> — <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Blast_Furnace_(S)_JE1.png" align="center" width="32" alt="Плавильная печь"> Плавильная печь;</li>
+  <li><code>smithing_transform</code> — <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Smithing_Table_JE2_BE2.png" align="center" width="32" alt="Стол кузнеца"> Стол кузнеца.</li>
+</ul>
+<p>Внутри этих папок файлы разделены по логическим категориям. Например, папка <code>crafting/wood_types/acacia</code> содержит в себе все альтернативные крафты из <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Acacia_Planks.png" align="center" width="32" alt="Акациевые доски"> Бревен и  
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Acacia_Log_(UD)_JE8_BE3.png" align="center" width="32" alt="Акациевое бревно"> Досок Акации.</p>
+
+<h3>Принцип именования файлов:</h3>
+<p>Имена всех файлов строятся по логическому принципу: <code>[какой_предмет_создается]_[из_какого_материала].json</code>.</p>
+<p>Например, путь <code>data/ccore/recipe/crafting/utility/chest_logs.json</code> означает крафт <img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Chest_(S)_JE2.png" width="32" alt="Сундук"> Cундука (chest) напрямую из <img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Oak_Log_(UD)_JE8_BE3.png" width="32" alt="Бревно"> Брёвен (logs).</p>
+</details>
+
+<h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Teleport_to_player.png" width="32" alt="Обратная связь"> Обратная связь</h2>
 <p>Нашли ошибку или у вас есть идеи для новых рецептов? Сообщите об этом мне в <a href="https://github.com/iluxa69/craftcore/issues">Issues</a> на GitHub.</p>
 <hr>
 <sub>Ассеты блоков и предметов были взяты с сайта <a href="https://minecraft.wiki/">Minecraft Wiki</a>.</sub>
