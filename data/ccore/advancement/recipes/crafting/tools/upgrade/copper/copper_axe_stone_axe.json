@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_item": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:copper_tool_materials"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "ccore:crafting/tools/upgrade/copper/copper_axe_stone_axe"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:crafting/tools/upgrade/copper/copper_axe_stone_axe"
+        ]
+    }
+}

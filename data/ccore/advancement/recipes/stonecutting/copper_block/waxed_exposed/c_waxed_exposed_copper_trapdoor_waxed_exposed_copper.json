@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_item": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:waxed_exposed_copper"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "ccore:stonecutting/copper_block/waxed_exposed/c_waxed_exposed_copper_trapdoor_waxed_exposed_copper"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "ccore:stonecutting/copper_block/waxed_exposed/c_waxed_exposed_copper_trapdoor_waxed_exposed_copper"
+        ]
+    }
+}

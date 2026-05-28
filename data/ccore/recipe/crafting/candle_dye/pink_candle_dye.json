@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "candle_dye",
+    "key": {
+        "H": "minecraft:honeycomb",
+        "S": "minecraft:string",
+        "D": "minecraft:pink_dye"
+    },
+    "pattern": [
+        "S",
+        "H",
+        "D"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pink_candle"
+    }
+}
