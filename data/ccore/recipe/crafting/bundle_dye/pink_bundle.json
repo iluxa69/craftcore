@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "bundle_dye_craft",
+    "key": {
+        "#": "minecraft:leather",
+        "-": "minecraft:string",
+        "D": "minecraft:pink_dye"
+    },
+    "pattern": [
+        "-",
+        "#",
+        "D"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pink_bundle"
+    }
+}

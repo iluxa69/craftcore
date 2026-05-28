@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "bed_dye_planks_wool",
+    "group": "bed_dye",
     "key": {
         "W": [
             "minecraft:blue_wool",

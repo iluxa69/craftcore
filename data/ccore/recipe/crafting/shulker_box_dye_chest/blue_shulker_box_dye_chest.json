@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "shulker_box_dye_shulker_shell",
+    "group": "shulker_box_dye_chest",
     "ingredients": [
-        "minecraft:blue_dye",
+        "minecraft:shulker_shell",
         "minecraft:chest",
         "minecraft:shulker_shell",
-        "minecraft:shulker_shell"
+        "minecraft:blue_dye"
     ],
     "result": {
         "count": 1,

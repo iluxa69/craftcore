@@ -1,9 +1,8 @@
 {
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "group": "carpet_wool_string",
+    "group": "carpet_string",
     "ingredients": [
-        "minecraft:magenta_dye",
         "minecraft:string",
         "minecraft:string",
         "minecraft:string",
@@ -11,7 +10,8 @@
         "minecraft:string",
         "minecraft:string",
         "minecraft:string",
-        "minecraft:string"
+        "minecraft:string",
+        "minecraft:magenta_dye"
     ],
     "result": {
         "count": 3,
