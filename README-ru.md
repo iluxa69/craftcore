@@ -152,17 +152,6 @@
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/chipped_anvil_fix.png" alt="Починка Поврежденной Наковальни">
 </details>
 
-<details>
-<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Red_Dye_JE4_BE4.png" width="32" alt="Красный краситель"> Быстрый крафт цветных предметов</summary>
-<br>
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/white_bundle_dye.png" alt="Крафт Белого мешка из белого красителя">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_carpet_string_dye.png" alt="Крафт Фиолетового ковра из нитей и Фиолетового красителя">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_wool_string_dye.png" alt="Крафт Фиолетовой шерсти из нитей и Фиолетового красителя">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_harness_craft_dye.png" alt="Крафт оранжевой упряжки">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_stained_glass_pane_dye.png" alt="Крафт пурпурных панелей из стекла и красителя">
-<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_shulker_craft_dye.png" alt="Крафт пурпурного шалкера">
-</details>
-
 <h2><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Knowledge_Book_JE2.png" width="32" alt="Книга знаний"> Quality of Life Рецепты</h2>
 
 <details>
@@ -203,6 +192,17 @@
 <summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Orange_Concrete.png" width="32" alt="Оранжевый бетон"> Бетон на Верстаке</summary>
 <br>
 <img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_concrete_powder_water.png" alt="Крафт оранжевого бетона из воды и сухого бетона">
+</details>
+
+<details>
+<summary><img align="center" src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Red_Dye_JE4_BE4.png" width="32" alt="Красный краситель"> Быстрый крафт цветных предметов</summary>
+<br>
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/white_bundle_dye.png" alt="Крафт Белого мешка из белого красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_carpet_string_dye.png" alt="Крафт Фиолетового ковра из нитей и Фиолетового красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/purple_wool_string_dye.png" alt="Крафт Фиолетовой шерсти из нитей и Фиолетового красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/orange_harness_craft_dye.png" alt="Крафт оранжевой упряжки">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_stained_glass_pane_dye.png" alt="Крафт пурпурных панелей из стекла и красителя">
+<img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/screenshots/magenta_shulker_craft_dye.png" alt="Крафт пурпурного шалкера">
 </details>
 
 <details>
