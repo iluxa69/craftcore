@@ -7,9 +7,9 @@
         "X": "#minecraft:wooden_tool_materials"
     },
     "pattern": [
-        "XX",
-        "X#",
-        " #"
+        "XXX",
+        " # ",
+        " # "
     ],
     "result": {
         "count": 1,
