@@ -1,0 +1,131 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"items": "minecraft:shears"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:vine",
+					"properties": {
+						"north": "true"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:vine"
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"items": "minecraft:shears"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:vine",
+					"properties": {
+						"east": "true"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:vine"
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"items": "minecraft:shears"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:vine",
+					"properties": {
+						"south": "true"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:vine"
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"items": "minecraft:shears"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:vine",
+					"properties": {
+						"west": "true"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:vine"
+				}
+			]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"conditions": [
+				{
+					"condition": "minecraft:match_tool",
+					"predicate": {
+						"items": "minecraft:shears"
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:vine",
+					"properties": {
+						"up": "true"
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:vine"
+				}
+			]
+		}
+	],
+	"random_sequence": "minecraft:blocks/vine"
+}

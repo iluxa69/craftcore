@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "glow_item_frame",
+	"ingredients": [
+		"#minecraft:logs",
+		"minecraft:leather",
+		"minecraft:glow_ink_sac"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:glow_item_frame"
+	}
+}

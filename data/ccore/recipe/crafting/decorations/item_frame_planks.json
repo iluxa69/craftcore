@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "item_frames",
+	"ingredients": [
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"minecraft:leather"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:item_frame"
+	}
+}

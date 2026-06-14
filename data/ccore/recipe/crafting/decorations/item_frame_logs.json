@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "item_frames",
+	"ingredients": [
+		"#minecraft:logs",
+		"minecraft:leather"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:item_frame"
+	}
+}

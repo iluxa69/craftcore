@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:blasting",
+	"category": "misc",
+	"cookingtime": 250,
+	"experience": 0.0,
+	"group": "iron_block",
+	"ingredient": "#minecraft:anvil",
+	"result": {
+		"id": "minecraft:iron_block"
+	}
+}

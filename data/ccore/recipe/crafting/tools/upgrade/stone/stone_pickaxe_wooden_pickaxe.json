@@ -1,17 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "equipment",
-    "group": "stone_pickaxes",
-    "key": {
-        "P": "minecraft:wooden_pickaxe",
-        "M": "#minecraft:stone_tool_materials"
-    },
-    "pattern": [
-        "MMM",
-        " P "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:stone_pickaxe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"group": "stone_pickaxes",
+	"key": {
+		"P": "minecraft:wooden_pickaxe",
+		"M": "#minecraft:stone_tool_materials"
+	},
+	"pattern": [
+		"MMM",
+		"   ",
+		" P "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:stone_pickaxe"
+	}
 }

@@ -1,17 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "building",
-    "group": "wool_string",
-    "key": {
-        "#": "minecraft:string",
-        "D": "minecraft:magenta_dye"
-    },
-    "pattern": [
-        "## ",
-        "##D"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:magenta_wool"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"group": "wool_string",
+	"ingredients": [
+		"minecraft:string",
+		"minecraft:string",
+		"minecraft:magenta_dye",
+		"minecraft:string",
+		"minecraft:string"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:magenta_wool"
+	}
 }
