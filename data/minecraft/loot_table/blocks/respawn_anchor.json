@@ -1,157 +1,157 @@
 {
-	"type": "minecraft:block",
-	"pools": [
-		{
-			"bonus_rolls": 0.0,
-			"conditions": [
-				{
-					"condition": "minecraft:survives_explosion"
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:respawn_anchor"
-				}
-			],
-			"rolls": 1.0
-		},
-		{
-			"rolls": 1.0,
-			"conditions": [
-				{
-					"condition": "minecraft:block_state_property",
-					"block": "minecraft:respawn_anchor",
-					"properties": {
-						"charges": "1"
-					}
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"add": false,
-							"count": {
-								"type": "minecraft:uniform",
-								"max": 1.0,
-								"min": 0.0
-							},
-							"function": "minecraft:set_count"
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:survives_explosion"
-						}
-					],
-					"name": "minecraft:glowstone"
-				}
-			]
-		},
-		{
-			"rolls": 1.0,
-			"conditions": [
-				{
-					"condition": "minecraft:block_state_property",
-					"block": "minecraft:respawn_anchor",
-					"properties": {
-						"charges": "2"
-					}
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"add": false,
-							"count": {
-								"type": "minecraft:uniform",
-								"max": 2.0,
-								"min": 1.0
-							},
-							"function": "minecraft:set_count"
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:survives_explosion"
-						}
-					],
-					"name": "minecraft:glowstone"
-				}
-			]
-		},
-		{
-			"rolls": 1.0,
-			"conditions": [
-				{
-					"condition": "minecraft:block_state_property",
-					"block": "minecraft:respawn_anchor",
-					"properties": {
-						"charges": "3"
-					}
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"add": false,
-							"count": {
-								"type": "minecraft:uniform",
-								"max": 3.0,
-								"min": 2.0
-							},
-							"function": "minecraft:set_count"
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:survives_explosion"
-						}
-					],
-					"name": "minecraft:glowstone"
-				}
-			]
-		},
-		{
-			"rolls": 1.0,
-			"conditions": [
-				{
-					"condition": "minecraft:block_state_property",
-					"block": "minecraft:respawn_anchor",
-					"properties": {
-						"charges": "4"
-					}
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"add": false,
-							"count": {
-								"type": "minecraft:uniform",
-								"max": 4.0,
-								"min": 3.0
-							},
-							"function": "minecraft:set_count"
-						}
-					],
-					"conditions": [
-						{
-							"condition": "minecraft:survives_explosion"
-						}
-					],
-					"name": "minecraft:glowstone"
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:blocks/respawn_anchor"
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:respawn_anchor"
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "rolls": 1.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:respawn_anchor",
+                    "properties": {
+                        "charges": "1"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 1.0,
+                                "min": 0.0
+                            },
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "condition": "minecraft:survives_explosion"
+                        }
+                    ],
+                    "name": "minecraft:glowstone"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:respawn_anchor",
+                    "properties": {
+                        "charges": "2"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 2.0,
+                                "min": 1.0
+                            },
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "condition": "minecraft:survives_explosion"
+                        }
+                    ],
+                    "name": "minecraft:glowstone"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:respawn_anchor",
+                    "properties": {
+                        "charges": "3"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 3.0,
+                                "min": 2.0
+                            },
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "condition": "minecraft:survives_explosion"
+                        }
+                    ],
+                    "name": "minecraft:glowstone"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:respawn_anchor",
+                    "properties": {
+                        "charges": "4"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "add": false,
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "max": 4.0,
+                                "min": 3.0
+                            },
+                            "function": "minecraft:set_count"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "condition": "minecraft:survives_explosion"
+                        }
+                    ],
+                    "name": "minecraft:glowstone"
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:blocks/respawn_anchor"
 }

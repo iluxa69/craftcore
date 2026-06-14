@@ -1,27 +1,27 @@
 {
-	"type": "minecraft:block",
-	"pools": [
-		{
-			"rolls": 1,
-			"conditions": [
-				{
-					"condition": "minecraft:block_state_property",
-					"block": "minecraft:cake",
-					"properties": {
-						"bites": "0"
-					}
-				},
-				{
-					"condition": "minecraft:survives_explosion"
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:cake"
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:blocks/cake"
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:cake",
+                    "properties": {
+                        "bites": "0"
+                    }
+                },
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cake"
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:blocks/cake"
 }

@@ -1,36 +1,36 @@
 {
-	"type": "minecraft:entity",
-	"pools": [
-		{
-			"bonus_rolls": 0.0,
-			"functions": [
-				{
-					"add": false,
-					"count": {
-						"type": "minecraft:uniform",
-						"max": 2.0,
-						"min": 1.0
-					},
-					"function": "minecraft:set_count"
-				}
-			],
-			"conditions": [
-				{
-					"condition": "minecraft:killed_by_player"
-				},
-				{
-					"condition": "minecraft:random_chance",
-					"chance": 0.3
-				}
-			],
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:flint"
-				}
-			],
-			"rolls": 1.0
-		}
-	],
-	"random_sequence": "minecraft:entities/silverfish"
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "functions": [
+                {
+                    "add": false,
+                    "count": {
+                        "type": "minecraft:uniform",
+                        "max": 2.0,
+                        "min": 1.0
+                    },
+                    "function": "minecraft:set_count"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:killed_by_player"
+                },
+                {
+                    "condition": "minecraft:random_chance",
+                    "chance": 0.3
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:flint"
+                }
+            ],
+            "rolls": 1.0
+        }
+    ],
+    "random_sequence": "minecraft:entities/silverfish"
 }

@@ -1,18 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "misc",
-	"group": "paintings",
-	"key": {
-		"#": "minecraft:stick",
-		"X": "#minecraft:wool"
-	},
-	"pattern": [
-		"###",
-		"#X#",
-		"###"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:painting"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "paintings",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "#minecraft:wool"
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:painting"
+    }
 }

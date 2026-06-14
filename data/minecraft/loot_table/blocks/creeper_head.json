@@ -1,34 +1,34 @@
 {
-	"type": "minecraft:block",
-	"pools": [
-		{
-			"rolls": 1.0,
-			"bonus_rolls": 0.0,
-			"entries": [
-				{
-					"type": "minecraft:alternatives",
-					"children": [
-						{
-							"type": "minecraft:tag",
-							"name": "minecraft:creeper_drop_music_discs",
-							"expand": true,
-							"conditions": [
-								{
-									"condition": "minecraft:match_tool",
-									"predicate": {
-										"items": "minecraft:shears"
-									}
-								}
-							]
-						},
-						{
-							"type": "minecraft:item",
-							"name": "minecraft:creeper_head"
-						}
-					]
-				}
-			]
-		}
-	],
-	"random_sequence": "minecraft:blocks/creeper_head"
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1.0,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:alternatives",
+                    "children": [
+                        {
+                            "type": "minecraft:tag",
+                            "name": "minecraft:creeper_drop_music_discs",
+                            "expand": true,
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:match_tool",
+                                    "predicate": {
+                                        "items": "minecraft:shears"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "minecraft:creeper_head"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "random_sequence": "minecraft:blocks/creeper_head"
 }

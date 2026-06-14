@@ -1,18 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "equipment",
-	"group": "golden_pickaxes",
-	"key": {
-		"P": "minecraft:stone_pickaxe",
-		"M": "#minecraft:gold_tool_materials"
-	},
-	"pattern": [
-		"MMM",
-		"   ",
-		" P "
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:golden_pickaxe"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "golden_pickaxes",
+    "key": {
+        "P": "minecraft:stone_pickaxe",
+        "M": "#minecraft:gold_tool_materials"
+    },
+    "pattern": [
+        "MMM",
+        "   ",
+        " P "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:golden_pickaxe"
+    }
 }

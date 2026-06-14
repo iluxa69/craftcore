@@ -1,18 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "equipment",
-	"group": "diamond_swords",
-	"key": {
-		"#": "minecraft:stick",
-		"X": "#minecraft:diamond_tool_materials"
-	},
-	"pattern": [
-		"X",
-		"X",
-		"#"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:diamond_sword"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "diamond_swords",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+        "X",
+        "X",
+        "#"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:diamond_sword"
+    }
 }

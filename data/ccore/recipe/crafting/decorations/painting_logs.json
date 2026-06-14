@@ -1,13 +1,13 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"category": "misc",
-	"group": "paintings",
-	"ingredients": [
-		"#minecraft:logs",
-		"#minecraft:wool"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:painting"
-	}
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "paintings",
+    "ingredients": [
+        "#minecraft:logs",
+        "#minecraft:wool"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:painting"
+    }
 }

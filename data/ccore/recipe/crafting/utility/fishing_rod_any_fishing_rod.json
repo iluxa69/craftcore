@@ -1,12 +1,12 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"category": "equipment",
-	"group": "fishing_rods",
-	"ingredients": [
-		"#ccore:on_a_stick"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:fishing_rod"
-	}
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "group": "fishing_rods",
+    "ingredients": [
+        "#ccore:on_a_stick"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:fishing_rod"
+    }
 }

@@ -1,19 +1,18 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"category": "misc",
-	"group": "item_frames",
-	"category": "misc",
-	"key": {
-		"#": "minecraft:stick",
-		"X": "minecraft:leather"
-	},
-	"pattern": [
-		"###",
-		"#X#",
-		"###"
-	],
-	"result": {
-		"count": 1,
-		"id": "minecraft:item_frame"
-	}
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "item_frames",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "minecraft:leather"
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:item_frame"
+    }
 }
