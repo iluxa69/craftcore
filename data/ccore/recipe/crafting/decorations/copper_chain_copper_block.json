@@ -3,7 +3,10 @@
     "category": "misc",
     "group": "copper_chains",
     "key": {
-        "B": "minecraft:copper_block",
+        "B": [
+            "minecraft:copper_block",
+            "minecraft:waxed_copper_block"
+        ],
         "I": "minecraft:copper_ingot"
     },
     "pattern": [

@@ -5,7 +5,7 @@
             "conditions": {
                 "items": [
                     {
-                        "items": "minecraft:iron_block"
+                        "items": "minecraft:redstone"
                     }
                 ]
             },
@@ -13,7 +13,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:crafting/decorations/iron_chain_plus"
+                "recipe": "ccore:crafting/redstone/redstone_lamp_glowstone_dust"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "ccore:crafting/decorations/iron_chain_plus"
+            "ccore:crafting/redstone/redstone_lamp_glowstone_dust"
         ]
     }
 }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "group": "redstone_lamp",
+    "key": {
+        "G": "minecraft:glowstone",
+        "R": "minecraft:redstone"
+    },
+    "pattern": [
+        " R ",
+        "RGR",
+        " R "
+    ],
+    "result": {
+        "id": "minecraft:redstone_lamp"
+    }
+}

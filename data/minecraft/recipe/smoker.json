@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "category": "misc",
     "key": {
-        "#": "#ccore:natural_logs_crafting",
+        "#": "#minecraft:logs",
         "X": [
             "minecraft:blast_furnace",
             "minecraft:furnace"
