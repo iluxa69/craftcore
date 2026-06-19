@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "category": "block",
+    "category": "building",
     "group": "concrete",
     "ingredients": [
         "minecraft:light_blue_concrete_powder",
