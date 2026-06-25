@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "misc",
+    "group": "poplar_chest_boats",
+    "key": {
+        "C": "minecraft:chest",
+        "P": "minecraft:poplar_planks"
+    },
+    "pattern": [
+        "PCP",
+        "PPP"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:poplar_chest_boat"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "building",
+    "group": "wool_stairs_dye",
+    "key": {
+        "#": [
+            "minecraft:black_wool",
+            "minecraft:blue_wool",
+            "minecraft:brown_wool",
+            "minecraft:cyan_wool",
+            "minecraft:gray_wool",
+            "minecraft:light_blue_wool",
+            "minecraft:light_gray_wool",
+            "minecraft:lime_wool",
+            "minecraft:magenta_wool",
+            "minecraft:orange_wool",
+            "minecraft:pink_wool",
+            "minecraft:purple_wool",
+            "minecraft:red_wool",
+            "minecraft:white_wool",
+            "minecraft:yellow_wool"
+        ],
+        "D": "minecraft:green_dye"
+    },
+    "pattern": [
+        "# D",
+        "## ",
+        "###"
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:green_wool_stairs"
+    }
+}

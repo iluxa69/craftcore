@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "building",
+    "group": "brown_wool_stairs",
+    "key": {
+        "#": "minecraft:brown_wool"
+    },
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:brown_wool_stairs"
+    }
+}

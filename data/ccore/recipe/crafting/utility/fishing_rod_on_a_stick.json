@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
     "category": "equipment",
     "group": "fishing_rods",
     "ingredients": [

@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "minecraft:stripped_crimson_stem",
     "result": {
         "count": 1,

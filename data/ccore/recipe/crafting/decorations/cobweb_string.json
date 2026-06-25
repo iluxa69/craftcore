@@ -1,6 +1,8 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
     "category": "building",
+    "ccore_item_condition": "cobweb",
     "group": "cobweb",
     "ingredients": [
         "minecraft:string",

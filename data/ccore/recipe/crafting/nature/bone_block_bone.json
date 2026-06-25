@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
     "category": "building",
     "group": "bone_block",
     "ingredients": [

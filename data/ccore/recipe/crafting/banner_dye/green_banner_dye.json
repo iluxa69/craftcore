@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": false,
     "category": "misc",
     "group": "banner_dye",
     "key": {

@@ -1,27 +1,16 @@
 {
     "parent": "minecraft:recipes/root",
     "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#minecraft:bamboo_blocks"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:stonecutting/wood_types/bamboo/c_bamboo_mosaic_block"
+                "recipe": "minecraft:bamboo_mosaic"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
-            "has_item"
+            "has_the_recipe"
         ]
     ],
     "rewards": {

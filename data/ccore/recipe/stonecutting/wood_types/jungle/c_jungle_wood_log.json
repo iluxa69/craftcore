@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "minecraft:jungle_log",
     "result": {
         "count": 1,

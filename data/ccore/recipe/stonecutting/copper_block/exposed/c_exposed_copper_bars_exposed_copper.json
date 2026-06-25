@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "minecraft:exposed_copper",
     "result": {
         "count": 24,

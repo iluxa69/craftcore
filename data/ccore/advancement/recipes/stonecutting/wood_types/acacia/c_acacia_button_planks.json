@@ -1,27 +1,16 @@
 {
     "parent": "minecraft:recipes/root",
     "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "minecraft:acacia_planks"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:stonecutting/wood_types/acacia/c_acacia_button_planks"
+                "recipe": "minecraft:acacia_button"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
-            "has_item"
+            "has_the_recipe"
         ]
     ],
     "rewards": {

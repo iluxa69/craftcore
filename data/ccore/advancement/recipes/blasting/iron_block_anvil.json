@@ -1,27 +1,16 @@
 {
     "parent": "minecraft:recipes/root",
     "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#minecraft:anvil"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:blasting/iron_block_anvil"
+                "recipe": "minecraft:iron_block"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
-            "has_item"
+            "has_the_recipe"
         ]
     ],
     "rewards": {

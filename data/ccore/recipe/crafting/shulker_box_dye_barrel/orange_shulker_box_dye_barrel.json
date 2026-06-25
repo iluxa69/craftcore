@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
     "category": "misc",
     "group": "shulker_box_dye_barrel",
     "ingredients": [

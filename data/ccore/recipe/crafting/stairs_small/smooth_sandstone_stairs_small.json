@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": false,
     "category": "building",
     "group": "smooth_sandstone_stairs",
     "key": {

@@ -10,17 +10,10 @@
                 ]
             },
             "trigger": "minecraft:inventory_changed"
-        },
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "ccore:stonecutting/copper_block/oxidized/c_oxidized_copper_trapdoor_oxidized_copper"
-            },
-            "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
             "has_item"
         ]
     ],

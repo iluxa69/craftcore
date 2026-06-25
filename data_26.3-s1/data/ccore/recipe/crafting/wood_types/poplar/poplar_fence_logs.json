@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "misc",
+    "group": "poplar_fence",
+    "key": {
+        "L": "#minecraft:poplar_logs"
+    },
+    "pattern": [
+        "LLL",
+        "L L"
+    ],
+    "result": {
+        "count": 16,
+        "id": "minecraft:poplar_fence"
+    }
+}

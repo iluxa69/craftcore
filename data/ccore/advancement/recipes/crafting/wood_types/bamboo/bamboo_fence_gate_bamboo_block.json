@@ -1,27 +1,16 @@
 {
     "parent": "minecraft:recipes/root",
     "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#minecraft:bamboo_blocks"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:crafting/wood_types/bamboo/bamboo_fence_gate_bamboo_block"
+                "recipe": "minecraft:bamboo_fence_gate"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
-            "has_item"
+            "has_the_recipe"
         ]
     ],
     "rewards": {

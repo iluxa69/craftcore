@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "#ccore:c_sandstones",
     "result": {
         "count": 1,

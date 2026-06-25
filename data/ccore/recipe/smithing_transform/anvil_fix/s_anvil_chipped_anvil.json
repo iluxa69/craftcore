@@ -1,5 +1,6 @@
 {
     "type": "minecraft:smithing_transform",
+    "show_notification": false,
     "addition": "minecraft:iron_block",
     "base": "minecraft:chipped_anvil",
     "result": {

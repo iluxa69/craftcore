@@ -1,5 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "ccore_item_condition": "iron_chain",
     "category": "equipment",
     "key": {
         "C": "minecraft:iron_chain",

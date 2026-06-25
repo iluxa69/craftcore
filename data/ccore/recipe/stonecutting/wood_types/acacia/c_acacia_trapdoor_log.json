@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "#minecraft:acacia_logs",
     "result": {
         "count": 3,

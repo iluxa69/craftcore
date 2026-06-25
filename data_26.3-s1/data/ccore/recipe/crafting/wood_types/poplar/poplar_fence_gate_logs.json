@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "redstone",
+    "group": "poplar_fence_gates",
+    "key": {
+        "L": "#minecraft:poplar_logs"
+    },
+    "pattern": [
+        "LLL",
+        " L "
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:poplar_fence_gate"
+    }
+}

@@ -10,17 +10,10 @@
                 ]
             },
             "trigger": "minecraft:inventory_changed"
-        },
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "ccore:crafting/carpet_string/purple_carpet_string"
-            },
-            "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
             "has_item"
         ]
     ],

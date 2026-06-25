@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "redstone",
+    "group": "poplar_doors",
+    "key": {
+        "#": "#minecraft:poplar_logs"
+    },
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:poplar_door"
+    }
+}

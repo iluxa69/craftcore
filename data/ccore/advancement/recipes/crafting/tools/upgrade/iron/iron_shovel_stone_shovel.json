@@ -1,27 +1,16 @@
 {
     "parent": "minecraft:recipes/root",
     "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#minecraft:iron_tool_materials"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "ccore:crafting/tools/upgrade/iron/iron_shovel_stone_shovel"
+                "recipe": "minecraft:iron_shovel"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [
         [
-            "has_the_recipe",
-            "has_item"
+            "has_the_recipe"
         ]
     ],
     "rewards": {

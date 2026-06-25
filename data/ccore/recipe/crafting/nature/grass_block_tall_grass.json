@@ -1,7 +1,8 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
+    "ccore_item_condition": "tall_grass",
     "category": "misc",
-    "group": "grasses_blocks",
     "ingredients": [
         "minecraft:tall_grass",
         "minecraft:tall_grass",

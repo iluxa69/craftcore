@@ -1,5 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "ccore_item_condition": "gold_block",
     "category": "misc",
     "key": {
         "S": "#ccore:natural_stone_crafting_materials",

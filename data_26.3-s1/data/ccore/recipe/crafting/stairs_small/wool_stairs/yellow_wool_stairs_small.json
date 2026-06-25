@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": false,
+    "category": "building",
+    "group": "yellow_wool_stairs",
+    "key": {
+        "#": "minecraft:yellow_wool"
+    },
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:yellow_wool_stairs"
+    }
+}

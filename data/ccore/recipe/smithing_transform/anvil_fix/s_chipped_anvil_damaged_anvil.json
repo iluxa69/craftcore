@@ -1,5 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
+    "show_notification": false,
+    "ccore_item_condition": "damaged_anvil",
     "addition": "minecraft:iron_block",
     "base": "minecraft:damaged_anvil",
     "result": {

@@ -1,5 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "show_notification": false,
+    "ccore_item_condition": "green_concrete_powder",
     "category": "building",
     "group": "concrete",
     "ingredients": [

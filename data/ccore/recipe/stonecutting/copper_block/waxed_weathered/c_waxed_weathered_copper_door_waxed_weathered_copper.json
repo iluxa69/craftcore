@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "minecraft:waxed_weathered_copper",
     "result": {
         "count": 2,

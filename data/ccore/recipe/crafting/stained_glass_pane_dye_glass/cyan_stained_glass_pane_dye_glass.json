@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "show_notification": false,
     "category": "misc",
     "group": "stained_glass_pane_dye_glass",
     "key": {

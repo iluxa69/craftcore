@@ -1,5 +1,6 @@
 {
     "type": "minecraft:stonecutting",
+    "show_notification": false,
     "ingredient": "minecraft:copper_block",
     "result": {
         "count": 3,
