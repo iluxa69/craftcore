@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "misc",
-    "group": "chest_boat",
+    "group": "bamboo_chest_boat",
     "key": {
         "C": "minecraft:chest",
         "P": "minecraft:bamboo_planks"
