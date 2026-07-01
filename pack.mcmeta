@@ -1,19 +1,19 @@
 {
 	"pack": {
 		"min_format": 94,
-		"max_format": 108,
-		"description": "CraftCore 2.2.0 [1.21.11 - 26.2] by iluxa69"
+		"max_format": 109,
+		"description": "CraftCore 2.2.0-1 [1.21.11 - 26.3-s2] by iluxa69"
 	},
 	"overlays": {
 		"entries": [
 			{
 				"min_format": 107,
-				"max_format": 108,
+				"max_format": 109,
 				"directory": "data_26.2"
 			},
 			{
 				"min_format": 108,
-				"max_format": 108,
+				"max_format": 109,
 				"directory": "data_26.3-s1"
 			}
 		]
