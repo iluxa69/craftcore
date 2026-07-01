@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "show_notification": false,
+    "ingredient": "minecraft:stripped_poplar_log",
+    "result": {
+        "count": 1,
+        "id": "minecraft:poplar_shelf"
+    }
+}
