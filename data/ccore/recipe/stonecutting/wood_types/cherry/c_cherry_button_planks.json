@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:cherry_planks",
-    "result": {
-        "count": 4,
-        "id": "minecraft:cherry_button"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:cherry_planks",
+	"result": {
+		"count": 4,
+		"id": "minecraft:cherry_button"
+	}
 }

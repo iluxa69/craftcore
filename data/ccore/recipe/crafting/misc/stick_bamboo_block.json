@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "sticks",
-    "key": {
-        "B": "#minecraft:bamboo_blocks"
-    },
-    "pattern": [
-        "B",
-        "B"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:stick"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "sticks",
+	"key": {
+		"B": "#minecraft:bamboo_blocks"
+	},
+	"pattern": [
+		"B",
+		"B"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:stick"
+	}
 }

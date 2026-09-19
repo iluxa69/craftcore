@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "redstone",
-    "group": "jungle_doors",
-    "key": {
-        "#": "minecraft:jungle_planks"
-    },
-    "pattern": [
-        "##",
-        "##",
-        "##"
-    ],
-    "result": {
-        "count": 2,
-        "id": "minecraft:jungle_door"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"group": "jungle_doors",
+	"key": {
+		"#": "minecraft:jungle_planks"
+	},
+	"pattern": [
+		"##",
+		"##",
+		"##"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:jungle_door"
+	}
 }

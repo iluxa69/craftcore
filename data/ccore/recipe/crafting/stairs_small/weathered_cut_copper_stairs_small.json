@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "weathered_cut_copper_stairs",
-    "key": {
-        "#": "minecraft:weathered_cut_copper"
-    },
-    "pattern": [
-        "#  ",
-        "## "
-    ],
-    "result": {
-        "count": 2,
-        "id": "minecraft:weathered_cut_copper_stairs"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "weathered_cut_copper_stairs",
+	"key": {
+		"#": "minecraft:weathered_cut_copper"
+	},
+	"pattern": [
+		"#  ",
+		"## "
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:weathered_cut_copper_stairs"
+	}
 }

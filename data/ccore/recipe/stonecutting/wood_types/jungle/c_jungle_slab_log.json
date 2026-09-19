@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:jungle_logs",
-    "result": {
-        "count": 8,
-        "id": "minecraft:jungle_slab"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:jungle_logs",
+	"result": {
+		"count": 8,
+		"id": "minecraft:jungle_slab"
+	}
 }

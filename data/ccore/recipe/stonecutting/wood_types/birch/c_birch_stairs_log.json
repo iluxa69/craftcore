@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:birch_logs",
-    "result": {
-        "count": 4,
-        "id": "minecraft:birch_stairs"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:birch_logs",
+	"result": {
+		"count": 4,
+		"id": "minecraft:birch_stairs"
+	}
 }

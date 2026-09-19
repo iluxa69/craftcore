@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "category": "misc",
-    "group": "jukeboxes",
-    "ingredients": [
-        "#minecraft:planks",
-        "minecraft:barrel",
-        "minecraft:diamond"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:jukebox"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"category": "misc",
+	"group": "jukeboxes",
+	"ingredients": [
+		"#minecraft:planks",
+		"minecraft:barrel",
+		"minecraft:diamond"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:jukebox"
+	}
 }

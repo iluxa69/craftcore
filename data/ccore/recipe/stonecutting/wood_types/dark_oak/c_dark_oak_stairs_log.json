@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:dark_oak_logs",
-    "result": {
-        "count": 4,
-        "id": "minecraft:dark_oak_stairs"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:dark_oak_logs",
+	"result": {
+		"count": 4,
+		"id": "minecraft:dark_oak_stairs"
+	}
 }

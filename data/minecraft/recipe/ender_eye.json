@@ -1,13 +1,13 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "group": "ender_eyes",
-    "ingredients": [
-        "minecraft:blaze_powder",
-        "minecraft:ender_pearl"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:ender_eye"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "ender_eyes",
+	"ingredients": [
+		"minecraft:blaze_powder",
+		"minecraft:ender_pearl"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:ender_eye"
+	}
 }

@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "warped_doors",
-    "key": {
-        "#": "#minecraft:warped_stems"
-    },
-    "pattern": [
-        "##",
-        "##",
-        "##"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:warped_door"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "warped_doors",
+	"key": {
+		"#": "#minecraft:warped_stems"
+	},
+	"pattern": [
+		"##",
+		"##",
+		"##"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:warped_door"
+	}
 }

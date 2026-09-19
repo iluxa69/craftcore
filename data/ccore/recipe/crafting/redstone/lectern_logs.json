@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "lecterns",
-    "key": {
-        "L": "#minecraft:logs",
-        "B": "#ccore:books"
-    },
-    "pattern": [
-        " L ",
-        "BBB",
-        " L "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:lectern"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "lecterns",
+	"key": {
+		"L": "#minecraft:logs",
+		"B": "#ccore:books"
+	},
+	"pattern": [
+		" L ",
+		"BBB",
+		" L "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:lectern"
+	}
 }

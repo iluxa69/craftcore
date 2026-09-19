@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "cinnabar_stairs",
+	"key": {
+		"#": "minecraft:cinnabar"
+	},
+	"pattern": [
+		"#  ",
+		"## "
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:cinnabar_stairs"
+	}
+}

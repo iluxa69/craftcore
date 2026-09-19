@@ -1,21 +1,21 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "minecraft:hopper_minecart"
-            },
-            "trigger": "minecraft:recipe_unlocked"
-        }
-    },
-    "requirements": [
-        [
-            "has_the_recipe"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:crafting/minecart/hopper_minecart_hopper_chest_iron"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_the_recipe": {
+			"conditions": {
+				"recipes": "minecraft:hopper_minecart"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:crafting/minecart/hopper_minecart_hopper_chest_iron"
+		]
+	}
 }

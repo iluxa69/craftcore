@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "building",
-    "group": "sandstone_stairs",
-    "key": {
-        "#": [
-            "minecraft:chiseled_sandstone",
-            "minecraft:cut_sandstone",
-            "minecraft:sandstone"
-        ]
-    },
-    "pattern": [
-        "#  ",
-        "## ",
-        "###"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:sandstone_stairs"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "sandstone_stairs",
+	"key": {
+		"#": [
+			"minecraft:chiseled_sandstone",
+			"minecraft:cut_sandstone",
+			"minecraft:sandstone"
+		]
+	},
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:sandstone_stairs"
+	}
 }

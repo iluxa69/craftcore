@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "warped_fence_gate",
-    "key": {
-        "L": "#minecraft:warped_stems"
-    },
-    "pattern": [
-        "LLL",
-        " L "
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:warped_fence_gate"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "warped_fence_gate",
+	"key": {
+		"L": "#minecraft:warped_stems"
+	},
+	"pattern": [
+		"LLL",
+		" L "
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:warped_fence_gate"
+	}
 }

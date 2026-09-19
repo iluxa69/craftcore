@@ -1,22 +1,22 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "ccore_item_condition": "lime_concrete_powder",
-    "category": "building",
-    "group": "concrete",
-    "ingredients": [
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder",
-        "minecraft:water_bucket",
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder",
-        "minecraft:lime_concrete_powder"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:lime_concrete"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"ccore_item_condition": "lime_concrete_powder",
+	"category": "building",
+	"group": "concrete",
+	"ingredients": [
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder",
+		"minecraft:water_bucket",
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder",
+		"minecraft:lime_concrete_powder"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:lime_concrete"
+	}
 }

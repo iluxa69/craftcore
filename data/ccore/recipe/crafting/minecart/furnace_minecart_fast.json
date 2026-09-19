@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "furnace_minecarts",
-    "key": {
-        "I": "minecraft:iron_ingot",
-        "F": "minecraft:furnace"
-    },
-    "pattern": [
-        "IFI",
-        "III"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:furnace_minecart"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "furnace_minecarts",
+	"key": {
+		"I": "minecraft:iron_ingot",
+		"F": "minecraft:furnace"
+	},
+	"pattern": [
+		"IFI",
+		"III"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:furnace_minecart"
+	}
 }

@@ -1,25 +1,25 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "minecraft:exposed_copper"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        }
-    },
-    "requirements": [
-        [
-            "has_item"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:stonecutting/copper_block/exposed/c_exposed_copper_door_exposed_copper"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_item": {
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:exposed_copper"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:stonecutting/copper_block/exposed/c_exposed_copper_door_exposed_copper"
+		]
+	}
 }

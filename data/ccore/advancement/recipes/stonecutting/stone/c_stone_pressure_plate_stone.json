@@ -1,21 +1,21 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "minecraft:stone_pressure_plate"
-            },
-            "trigger": "minecraft:recipe_unlocked"
-        }
-    },
-    "requirements": [
-        [
-            "has_the_recipe"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:stonecutting/stone/c_stone_pressure_plate_stone"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_the_recipe": {
+			"conditions": {
+				"recipes": "minecraft:stone_pressure_plate"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:stonecutting/stone/c_stone_pressure_plate_stone"
+		]
+	}
 }

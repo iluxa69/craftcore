@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "bamboo_trapdoors",
-    "key": {
-        "#": "#minecraft:bamboo_blocks"
-    },
-    "pattern": [
-        "###",
-        "###"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:bamboo_trapdoor"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "bamboo_trapdoors",
+	"key": {
+		"#": "#minecraft:bamboo_blocks"
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:bamboo_trapdoor"
+	}
 }

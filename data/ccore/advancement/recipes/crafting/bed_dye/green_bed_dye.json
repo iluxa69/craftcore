@@ -1,21 +1,21 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "minecraft:green_bed"
-            },
-            "trigger": "minecraft:recipe_unlocked"
-        }
-    },
-    "requirements": [
-        [
-            "has_the_recipe"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:crafting/bed_dye/green_bed_dye"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_the_recipe": {
+			"conditions": {
+				"recipes": "minecraft:green_bed"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:crafting/bed_dye/green_bed_dye"
+		]
+	}
 }

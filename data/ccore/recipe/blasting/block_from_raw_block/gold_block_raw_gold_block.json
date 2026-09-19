@@ -1,12 +1,12 @@
 {
-    "type": "minecraft:blasting",
-    "show_notification": false,
-    "category": "misc",
-    "cookingtime": 700,
-    "experience": 6.0,
-    "group": "gold_block",
-    "ingredient": "minecraft:raw_gold_block",
-    "result": {
-        "id": "minecraft:gold_block"
-    }
+	"type": "minecraft:blasting",
+	"show_notification": false,
+	"category": "misc",
+	"cookingtime": 700,
+	"experience": 6.0,
+	"group": "gold_block",
+	"ingredient": "minecraft:raw_gold_block",
+	"result": {
+		"id": "minecraft:gold_block"
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "trapped_chests",
-    "key": {
-        "P": "#minecraft:planks",
-        "H": "minecraft:tripwire_hook"
-    },
-    "pattern": [
-        "PPP",
-        "PHP",
-        "PPP"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:trapped_chest"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "trapped_chests",
+	"key": {
+		"P": "#minecraft:planks",
+		"H": "minecraft:tripwire_hook"
+	},
+	"pattern": [
+		"PPP",
+		"PHP",
+		"PPP"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:trapped_chest"
+	}
 }

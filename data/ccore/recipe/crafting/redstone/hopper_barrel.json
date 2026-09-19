@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "hoppers",
-    "key": {
-        "P": "#minecraft:planks",
-        "I": "minecraft:iron_ingot",
-        "B": "minecraft:barrel"
-    },
-    "pattern": [
-        "IPI",
-        "IBI",
-        " I "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:hopper"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "hoppers",
+	"key": {
+		"P": "#minecraft:planks",
+		"I": "minecraft:iron_ingot",
+		"B": "minecraft:barrel"
+	},
+	"pattern": [
+		"IPI",
+		"IBI",
+		" I "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:hopper"
+	}
 }

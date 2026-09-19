@@ -1,14 +1,14 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "group": "shulker_box",
-    "ingredients": [
-        "minecraft:shulker_shell",
-        "minecraft:chest",
-        "minecraft:shulker_shell"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:shulker_box"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "shulker_box",
+	"ingredients": [
+		"minecraft:shulker_shell",
+		"minecraft:chest",
+		"minecraft:shulker_shell"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:shulker_box"
+	}
 }

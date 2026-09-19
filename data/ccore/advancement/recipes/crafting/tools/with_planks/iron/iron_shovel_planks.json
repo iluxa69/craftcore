@@ -1,21 +1,21 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "minecraft:iron_shovel"
-            },
-            "trigger": "minecraft:recipe_unlocked"
-        }
-    },
-    "requirements": [
-        [
-            "has_the_recipe"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:crafting/tools/with_planks/iron/iron_shovel_planks"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_the_recipe": {
+			"conditions": {
+				"recipes": "minecraft:iron_shovel"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:crafting/tools/with_planks/iron/iron_shovel_planks"
+		]
+	}
 }

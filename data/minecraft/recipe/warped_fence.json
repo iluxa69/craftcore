@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "group": "warped_fence",
-    "key": {
-        "#": "minecraft:stick",
-        "W": "minecraft:warped_planks"
-    },
-    "pattern": [
-        "W#W",
-        "W#W"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:warped_fence"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "warped_fence",
+	"key": {
+		"#": "minecraft:stick",
+		"W": "minecraft:warped_planks"
+	},
+	"pattern": [
+		"W#W",
+		"W#W"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:warped_fence"
+	}
 }

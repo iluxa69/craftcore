@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "chests",
-    "key": {
-        "L": "#minecraft:logs"
-    },
-    "pattern": [
-        "LLL",
-        "L L",
-        "LLL"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:chest"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "chests",
+	"key": {
+		"L": "#minecraft:logs"
+	},
+	"pattern": [
+		"LLL",
+		"L L",
+		"LLL"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:chest"
+	}
 }

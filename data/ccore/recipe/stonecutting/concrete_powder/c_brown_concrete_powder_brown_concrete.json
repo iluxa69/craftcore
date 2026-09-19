@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:brown_concrete",
-    "result": {
-        "count": 1,
-        "id": "minecraft:brown_concrete_powder"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:brown_concrete",
+	"result": {
+		"count": 1,
+		"id": "minecraft:brown_concrete_powder"
+	}
 }

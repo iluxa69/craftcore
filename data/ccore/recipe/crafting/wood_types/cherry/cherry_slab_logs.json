@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "cherry_slabs",
-    "key": {
-        "#": "#minecraft:cherry_logs"
-    },
-    "pattern": [
-        "###"
-    ],
-    "result": {
-        "count": 24,
-        "id": "minecraft:cherry_slab"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "cherry_slabs",
+	"key": {
+		"#": "#minecraft:cherry_logs"
+	},
+	"pattern": [
+		"###"
+	],
+	"result": {
+		"count": 24,
+		"id": "minecraft:cherry_slab"
+	}
 }

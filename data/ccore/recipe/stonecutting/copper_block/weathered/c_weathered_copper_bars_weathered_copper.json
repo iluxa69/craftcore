@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:weathered_copper",
-    "result": {
-        "count": 24,
-        "id": "minecraft:weathered_copper_bars"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:weathered_copper",
+	"result": {
+		"count": 24,
+		"id": "minecraft:weathered_copper_bars"
+	}
 }

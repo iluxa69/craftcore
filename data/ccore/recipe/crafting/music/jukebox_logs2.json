@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "jukeboxes",
-    "key": {
-        "L": "#minecraft:logs",
-        "D": "minecraft:diamond"
-    },
-    "pattern": [
-        "L",
-        "D",
-        "L"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:jukebox"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "jukeboxes",
+	"key": {
+		"L": "#minecraft:logs",
+		"D": "minecraft:diamond"
+	},
+	"pattern": [
+		"L",
+		"D",
+		"L"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:jukebox"
+	}
 }

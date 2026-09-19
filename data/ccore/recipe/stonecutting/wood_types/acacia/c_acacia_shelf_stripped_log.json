@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:stripped_acacia_log",
-    "result": {
-        "count": 1,
-        "id": "minecraft:acacia_shelf"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:stripped_acacia_log",
+	"result": {
+		"count": 1,
+		"id": "minecraft:acacia_shelf"
+	}
 }

@@ -1,21 +1,21 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "minecraft:pale_oak_slab"
-            },
-            "trigger": "minecraft:recipe_unlocked"
-        }
-    },
-    "requirements": [
-        [
-            "has_the_recipe"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:stonecutting/wood_types/pale_oak/c_pale_oak_slab_planks"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_the_recipe": {
+			"conditions": {
+				"recipes": "minecraft:pale_oak_slab"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:stonecutting/wood_types/pale_oak/c_pale_oak_slab_planks"
+		]
+	}
 }

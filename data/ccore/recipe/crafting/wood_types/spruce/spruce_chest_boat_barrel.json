@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "spruce_chest_boats",
-    "key": {
-        "A": "#minecraft:planks",
-        "B": "minecraft:barrel",
-        "P": "minecraft:spruce_planks"
-    },
-    "pattern": [
-        " A ",
-        "PBP",
-        "PPP"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:spruce_chest_boat"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "spruce_chest_boats",
+	"key": {
+		"A": "#minecraft:planks",
+		"B": "minecraft:barrel",
+		"P": "minecraft:spruce_planks"
+	},
+	"pattern": [
+		" A ",
+		"PBP",
+		"PPP"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:spruce_chest_boat"
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "acacia_trapdoors",
-    "key": {
-        "#": "#minecraft:acacia_logs"
-    },
-    "pattern": [
-        "###",
-        "###"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:acacia_trapdoor"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "acacia_trapdoors",
+	"key": {
+		"#": "#minecraft:acacia_logs"
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:acacia_trapdoor"
+	}
 }

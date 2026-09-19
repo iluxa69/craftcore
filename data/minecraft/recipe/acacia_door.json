@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "redstone",
-    "group": "acacia_doors",
-    "key": {
-        "#": "minecraft:acacia_planks"
-    },
-    "pattern": [
-        "##",
-        "##",
-        "##"
-    ],
-    "result": {
-        "count": 2,
-        "id": "minecraft:acacia_door"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"group": "acacia_doors",
+	"key": {
+		"#": "minecraft:acacia_planks"
+	},
+	"pattern": [
+		"##",
+		"##",
+		"##"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:acacia_door"
+	}
 }

@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:logs",
-    "result": {
-        "count": 4,
-        "id": "minecraft:ladder"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:logs",
+	"result": {
+		"count": 4,
+		"id": "minecraft:ladder"
+	}
 }

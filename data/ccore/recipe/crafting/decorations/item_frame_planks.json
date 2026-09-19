@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "category": "misc",
-    "group": "item_frames",
-    "ingredients": [
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "minecraft:leather"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:item_frame"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"category": "misc",
+	"group": "item_frames",
+	"ingredients": [
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"minecraft:leather"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:item_frame"
+	}
 }

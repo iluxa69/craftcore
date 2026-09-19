@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "levers",
-    "ingredients": [
-        "#minecraft:logs",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone",
-        "minecraft:cobblestone"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:lever"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "levers",
+	"ingredients": [
+		"#minecraft:logs",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:cobblestone"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:lever"
+	}
 }

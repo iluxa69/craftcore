@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "copper_hoes",
-    "key": {
-        "H": "minecraft:wooden_hoe",
-        "M": "#minecraft:copper_tool_materials"
-    },
-    "pattern": [
-        "MM",
-        "  ",
-        " H"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:copper_hoe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "copper_hoes",
+	"key": {
+		"H": "minecraft:wooden_hoe",
+		"M": "#minecraft:copper_tool_materials"
+	},
+	"pattern": [
+		"MM",
+		"  ",
+		" H"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:copper_hoe"
+	}
 }

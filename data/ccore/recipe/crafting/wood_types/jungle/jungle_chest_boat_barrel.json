@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "jungle_chest_boats",
-    "key": {
-        "A": "#minecraft:planks",
-        "B": "minecraft:barrel",
-        "P": "minecraft:jungle_planks"
-    },
-    "pattern": [
-        " A ",
-        "PBP",
-        "PPP"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:jungle_chest_boat"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "jungle_chest_boats",
+	"key": {
+		"A": "#minecraft:planks",
+		"B": "minecraft:barrel",
+		"P": "minecraft:jungle_planks"
+	},
+	"pattern": [
+		" A ",
+		"PBP",
+		"PPP"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:jungle_chest_boat"
+	}
 }

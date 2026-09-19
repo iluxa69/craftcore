@@ -1,14 +1,14 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "category": "misc",
-    "group": "jukeboxes",
-    "ingredients": [
-        "minecraft:chest",
-        "minecraft:diamond"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:jukebox"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"category": "misc",
+	"group": "jukeboxes",
+	"ingredients": [
+		"minecraft:chest",
+		"minecraft:diamond"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:jukebox"
+	}
 }

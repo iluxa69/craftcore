@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "redstone",
-    "group": "cherry_doors",
-    "key": {
-        "#": "minecraft:cherry_planks"
-    },
-    "pattern": [
-        "##",
-        "##",
-        "##"
-    ],
-    "result": {
-        "count": 2,
-        "id": "minecraft:cherry_door"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"group": "cherry_doors",
+	"key": {
+		"#": "minecraft:cherry_planks"
+	},
+	"pattern": [
+		"##",
+		"##",
+		"##"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:cherry_door"
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "jungle_fence",
-    "key": {
-        "L": "#minecraft:jungle_logs"
-    },
-    "pattern": [
-        "LLL",
-        "L L"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:jungle_fence"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "jungle_fence",
+	"key": {
+		"L": "#minecraft:jungle_logs"
+	},
+	"pattern": [
+		"LLL",
+		"L L"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:jungle_fence"
+	}
 }

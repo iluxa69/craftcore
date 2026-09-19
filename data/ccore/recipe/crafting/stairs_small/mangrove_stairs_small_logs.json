@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "mangrove_stairs",
-    "key": {
-        "#": "#minecraft:mangrove_logs"
-    },
-    "pattern": [
-        "#  ",
-        "## "
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:mangrove_stairs"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "mangrove_stairs",
+	"key": {
+		"#": "#minecraft:mangrove_logs"
+	},
+	"pattern": [
+		"#  ",
+		"## "
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:mangrove_stairs"
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "iron_swords",
-    "key": {
-        "S": "minecraft:stone_sword",
-        "M": "#minecraft:iron_tool_materials"
-    },
-    "pattern": [
-        "M",
-        "M",
-        "S"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:iron_sword"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "iron_swords",
+	"key": {
+		"S": "minecraft:stone_sword",
+		"M": "#minecraft:iron_tool_materials"
+	},
+	"pattern": [
+		"M",
+		"M",
+		"S"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:iron_sword"
+	}
 }

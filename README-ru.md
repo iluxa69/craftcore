@@ -655,7 +655,7 @@
 	</table>
 </details>
 
-<h2><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Stone_JE5_BE3.png" align="center" width="32" alt="Камень"> Изменения в дропе блоков</h2>
+<h2><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Stone_JE5_BE3.png" align="center" width="32" alt="Камень"> Изменения в дропе блоков (Временно удалено, начиная с версии 26.3!)</h2>
 
 <details>
 <summary><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Golden_Pickaxe_JE4_BE3.png" align="center" width="32" alt="Золотая кирка"> Механика золотых инструментов</summary>
@@ -790,7 +790,7 @@
 	</table>
 </details>
 
-<h2><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/EnvSprite_mob.png" align="center" width="32" alt="Мобы"> Изменения в луте мобов</h2>
+<h2><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/EnvSprite_mob.png" align="center" width="32" alt="Мобы"> Изменения в луте мобов (Временно удалено, начиная с версии 26.3!)</h2>
 <details>
 <summary><img src="https://raw.githubusercontent.com/iluxa69/craftcore/main/_assets/sprites/Zombie_Spawn_Egg_JE3_BE2.png" align="center" width="32" alt="Яйцо призыва зомби"> Зомби</summary>
 <br>

@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "bamboo_chest_boat",
-    "key": {
-        "A": "#minecraft:planks",
-        "B": "minecraft:barrel",
-        "P": "minecraft:bamboo_planks"
-    },
-    "pattern": [
-        " A ",
-        "PBP",
-        "PPP"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:bamboo_chest_raft"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "bamboo_chest_boat",
+	"key": {
+		"A": "#minecraft:planks",
+		"B": "minecraft:barrel",
+		"P": "minecraft:bamboo_planks"
+	},
+	"pattern": [
+		" A ",
+		"PBP",
+		"PPP"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:bamboo_chest_raft"
+	}
 }

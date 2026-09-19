@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "concrete_stairs_dye",
+	"key": {
+		"#": [
+			"minecraft:black_concrete",
+			"minecraft:blue_concrete",
+			"minecraft:brown_concrete",
+			"minecraft:cyan_concrete",
+			"minecraft:green_concrete",
+			"minecraft:light_blue_concrete",
+			"minecraft:light_gray_concrete",
+			"minecraft:lime_concrete",
+			"minecraft:magenta_concrete",
+			"minecraft:orange_concrete",
+			"minecraft:pink_concrete",
+			"minecraft:purple_concrete",
+			"minecraft:red_concrete",
+			"minecraft:white_concrete",
+			"minecraft:yellow_concrete"
+		],
+		"D": "minecraft:gray_dye"
+	},
+	"pattern": [
+		"# D",
+		"## ",
+		"###"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:gray_concrete_stairs"
+	}
+}

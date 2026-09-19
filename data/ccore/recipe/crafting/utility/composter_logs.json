@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "composters",
-    "key": {
-        "#": "#minecraft:logs"
-    },
-    "pattern": [
-        "# #",
-        "# #",
-        "###"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:composter"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "composters",
+	"key": {
+		"#": "#minecraft:logs"
+	},
+	"pattern": [
+		"# #",
+		"# #",
+		"###"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:composter"
+	}
 }

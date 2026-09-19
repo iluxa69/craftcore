@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "acacia_chest_boats",
-    "key": {
-        "L": "#minecraft:logs",
-        "B": "minecraft:acacia_boat"
-    },
-    "pattern": [
-        "L",
-        "L",
-        "B"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:acacia_chest_boat"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "acacia_chest_boats",
+	"key": {
+		"L": "#minecraft:logs",
+		"B": "minecraft:acacia_boat"
+	},
+	"pattern": [
+		"L",
+		"L",
+		"B"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:acacia_chest_boat"
+	}
 }

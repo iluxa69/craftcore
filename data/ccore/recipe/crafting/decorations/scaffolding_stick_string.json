@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "scaffoldings",
-    "key": {
-        "S": "minecraft:stick",
-        "~": "minecraft:string"
-    },
-    "pattern": [
-        "S~S",
-        "S~S",
-        "S S"
-    ],
-    "result": {
-        "count": 12,
-        "id": "minecraft:scaffolding"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "scaffoldings",
+	"key": {
+		"S": "minecraft:stick",
+		"~": "minecraft:string"
+	},
+	"pattern": [
+		"S~S",
+		"S~S",
+		"S S"
+	],
+	"result": {
+		"count": 12,
+		"id": "minecraft:scaffolding"
+	}
 }

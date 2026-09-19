@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "dark_oak_chest_boats",
-    "key": {
-        "A": "#minecraft:planks",
-        "B": "minecraft:barrel",
-        "P": "minecraft:dark_oak_planks"
-    },
-    "pattern": [
-        " A ",
-        "PBP",
-        "PPP"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:dark_oak_chest_boat"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "dark_oak_chest_boats",
+	"key": {
+		"A": "#minecraft:planks",
+		"B": "minecraft:barrel",
+		"P": "minecraft:dark_oak_planks"
+	},
+	"pattern": [
+		" A ",
+		"PBP",
+		"PPP"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:dark_oak_chest_boat"
+	}
 }

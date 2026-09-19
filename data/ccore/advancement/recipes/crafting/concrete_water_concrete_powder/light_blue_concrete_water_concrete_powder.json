@@ -1,25 +1,25 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "minecraft:light_blue_concrete_powder"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        }
-    },
-    "requirements": [
-        [
-            "has_item"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:crafting/concrete_water_concrete_powder/light_blue_concrete_water_concrete_powder"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_item": {
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:light_blue_concrete_powder"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:crafting/concrete_water_concrete_powder/light_blue_concrete_water_concrete_powder"
+		]
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "lecterns",
-    "key": {
-        "B": "minecraft:bookshelf",
-        "P": "#minecraft:planks"
-    },
-    "pattern": [
-        "P",
-        "B",
-        "P"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:lectern"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "lecterns",
+	"key": {
+		"B": "minecraft:bookshelf",
+		"P": "#minecraft:planks"
+	},
+	"pattern": [
+		"P",
+		"B",
+		"P"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:lectern"
+	}
 }

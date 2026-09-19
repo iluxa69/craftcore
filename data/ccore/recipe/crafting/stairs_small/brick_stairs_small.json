@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "brick_stairs",
-    "key": {
-        "#": "minecraft:bricks"
-    },
-    "pattern": [
-        "#  ",
-        "## "
-    ],
-    "result": {
-        "count": 2,
-        "id": "minecraft:brick_stairs"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "brick_stairs",
+	"key": {
+		"#": "minecraft:bricks"
+	},
+	"pattern": [
+		"#  ",
+		"## "
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:brick_stairs"
+	}
 }

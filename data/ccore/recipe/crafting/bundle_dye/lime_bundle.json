@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "bundle_dye_craft",
-    "key": {
-        "#": "minecraft:leather",
-        "-": "minecraft:string",
-        "D": "minecraft:lime_dye"
-    },
-    "pattern": [
-        "-",
-        "#",
-        "D"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:lime_bundle"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "bundle_dye_craft",
+	"key": {
+		"#": "minecraft:leather",
+		"-": "minecraft:string",
+		"D": "minecraft:lime_dye"
+	},
+	"pattern": [
+		"-",
+		"#",
+		"D"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:lime_bundle"
+	}
 }

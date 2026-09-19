@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "ccore_item_condition": "#ccore:mushrooms",
-    "category": "misc",
-    "ingredients": [
-        "#ccore:mushrooms",
-        "#ccore:mushrooms",
-        "#ccore:mushrooms",
-        "#ccore:mushrooms",
-        "minecraft:dirt",
-        "#ccore:mushrooms",
-        "#ccore:mushrooms",
-        "#ccore:mushrooms",
-        "#ccore:mushrooms"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:mycelium"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"ccore_item_condition": "#ccore:mushrooms",
+	"category": "misc",
+	"ingredients": [
+		"#ccore:mushrooms",
+		"#ccore:mushrooms",
+		"#ccore:mushrooms",
+		"#ccore:mushrooms",
+		"minecraft:dirt",
+		"#ccore:mushrooms",
+		"#ccore:mushrooms",
+		"#ccore:mushrooms",
+		"#ccore:mushrooms"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:mycelium"
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "stone_shovels",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:stone_tool_materials"
-    },
-    "pattern": [
-        "X",
-        " ",
-        "#"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:stone_shovel"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "stone_shovels",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:stone_tool_materials"
+	},
+	"pattern": [
+		"X",
+		" ",
+		"#"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:stone_shovel"
+	}
 }

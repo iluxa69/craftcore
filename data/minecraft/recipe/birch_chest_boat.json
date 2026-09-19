@@ -1,13 +1,13 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "group": "birch_chest_boats",
-    "ingredients": [
-        "minecraft:birch_boat",
-        "minecraft:chest"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:birch_chest_boat"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "birch_chest_boats",
+	"ingredients": [
+		"minecraft:birch_boat",
+		"minecraft:chest"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:birch_chest_boat"
+	}
 }

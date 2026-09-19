@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-        "G": "#ccore:colored_glass",
-        "O": "#ccore:obsidians_craft",
-        "S": "minecraft:nether_star"
-    },
-    "pattern": [
-        "GGG",
-        "GSG",
-        "OOO"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:beacon"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"G": "#ccore:colored_glass",
+		"O": "#ccore:obsidians_craft",
+		"S": "minecraft:nether_star"
+	},
+	"pattern": [
+		"GGG",
+		"GSG",
+		"OOO"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:beacon"
+	}
 }

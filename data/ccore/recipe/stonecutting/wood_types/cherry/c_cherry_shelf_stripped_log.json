@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:stripped_cherry_log",
-    "result": {
-        "count": 1,
-        "id": "minecraft:cherry_shelf"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:stripped_cherry_log",
+	"result": {
+		"count": 1,
+		"id": "minecraft:cherry_shelf"
+	}
 }

@@ -1,14 +1,14 @@
 {
-    "values": [
-        "minecraft:andesite",
-        "minecraft:basalt",
-        "minecraft:blackstone",
-        "minecraft:cobbled_deepslate",
-        "minecraft:cobblestone",
-        "minecraft:deepslate",
-        "minecraft:diorite",
-        "minecraft:granite",
-        "minecraft:stone",
-        "minecraft:tuff"
-    ]
+	"values": [
+		"minecraft:andesite",
+		"minecraft:basalt",
+		"minecraft:blackstone",
+		"minecraft:cobbled_deepslate",
+		"minecraft:cobblestone",
+		"minecraft:deepslate",
+		"minecraft:diorite",
+		"minecraft:granite",
+		"minecraft:stone",
+		"minecraft:tuff"
+	]
 }

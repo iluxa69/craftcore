@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "wooden_pickaxes",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:wooden_tool_materials"
-    },
-    "pattern": [
-        "XXX",
-        "   ",
-        " # "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:wooden_pickaxe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "wooden_pickaxes",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:wooden_tool_materials"
+	},
+	"pattern": [
+		"XXX",
+		"   ",
+		" # "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:wooden_pickaxe"
+	}
 }

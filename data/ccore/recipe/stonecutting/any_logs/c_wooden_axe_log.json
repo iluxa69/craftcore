@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:logs",
-    "result": {
-        "count": 1,
-        "id": "minecraft:wooden_axe"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:logs",
+	"result": {
+		"count": 1,
+		"id": "minecraft:wooden_axe"
+	}
 }

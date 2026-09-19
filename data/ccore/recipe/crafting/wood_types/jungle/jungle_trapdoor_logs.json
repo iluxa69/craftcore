@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "jungle_trapdoors",
-    "key": {
-        "#": "#minecraft:jungle_logs"
-    },
-    "pattern": [
-        "###",
-        "###"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:jungle_trapdoor"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "jungle_trapdoors",
+	"key": {
+		"#": "#minecraft:jungle_logs"
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:jungle_trapdoor"
+	}
 }

@@ -1,22 +1,22 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "ccore_item_condition": "green_concrete_powder",
-    "category": "building",
-    "group": "concrete",
-    "ingredients": [
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder",
-        "minecraft:water_bucket",
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder",
-        "minecraft:green_concrete_powder"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:green_concrete"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"ccore_item_condition": "green_concrete_powder",
+	"category": "building",
+	"group": "concrete",
+	"ingredients": [
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder",
+		"minecraft:water_bucket",
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder",
+		"minecraft:green_concrete_powder"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:green_concrete"
+	}
 }

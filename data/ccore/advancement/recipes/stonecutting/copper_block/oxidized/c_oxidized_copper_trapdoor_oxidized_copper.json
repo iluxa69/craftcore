@@ -1,25 +1,25 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "minecraft:oxidized_copper"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        }
-    },
-    "requirements": [
-        [
-            "has_item"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:stonecutting/copper_block/oxidized/c_oxidized_copper_trapdoor_oxidized_copper"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_item": {
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:oxidized_copper"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:stonecutting/copper_block/oxidized/c_oxidized_copper_trapdoor_oxidized_copper"
+		]
+	}
 }

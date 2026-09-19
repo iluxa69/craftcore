@@ -1,25 +1,25 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "#ccore:c_sandstones"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        }
-    },
-    "requirements": [
-        [
-            "has_item"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:stonecutting/sandstones/c_sand_sandstone"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_item": {
+			"conditions": {
+				"items": [
+					{
+						"items": "#ccore:c_sandstones"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:stonecutting/sandstones/c_sand_sandstone"
+		]
+	}
 }

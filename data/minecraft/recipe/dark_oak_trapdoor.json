@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "redstone",
-    "group": "dark_oak_trapdoors",
-    "key": {
-        "#": "minecraft:dark_oak_planks"
-    },
-    "pattern": [
-        "###",
-        "###"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:dark_oak_trapdoor"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"group": "dark_oak_trapdoors",
+	"key": {
+		"#": "minecraft:dark_oak_planks"
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:dark_oak_trapdoor"
+	}
 }

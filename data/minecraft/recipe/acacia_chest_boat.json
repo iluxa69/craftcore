@@ -1,13 +1,13 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "group": "acacia_chest_boats",
-    "ingredients": [
-        "minecraft:acacia_boat",
-        "minecraft:chest"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:acacia_chest_boat"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "acacia_chest_boats",
+	"ingredients": [
+		"minecraft:acacia_boat",
+		"minecraft:chest"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:acacia_chest_boat"
+	}
 }

@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "wooden_axes",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:wooden_tool_materials"
-    },
-    "pattern": [
-        "XX",
-        "X ",
-        " #"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:wooden_axe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "wooden_axes",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:wooden_tool_materials"
+	},
+	"pattern": [
+		"XX",
+		"X ",
+		" #"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:wooden_axe"
+	}
 }

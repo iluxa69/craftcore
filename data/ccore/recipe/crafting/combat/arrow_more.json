@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "arrows",
-    "key": {
-        "#": "minecraft:stick",
-        "X": "minecraft:flint",
-        "Y": "minecraft:feather"
-    },
-    "pattern": [
-        "XXX",
-        "###",
-        "YYY"
-    ],
-    "result": {
-        "count": 12,
-        "id": "minecraft:arrow"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "arrows",
+	"key": {
+		"#": "minecraft:stick",
+		"X": "minecraft:flint",
+		"Y": "minecraft:feather"
+	},
+	"pattern": [
+		"XXX",
+		"###",
+		"YYY"
+	],
+	"result": {
+		"count": 12,
+		"id": "minecraft:arrow"
+	}
 }

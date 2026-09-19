@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "ladders",
-    "key": {
-        "P": "#minecraft:planks"
-    },
-    "pattern": [
-        "P P",
-        "PPP",
-        "P P"
-    ],
-    "result": {
-        "count": 6,
-        "id": "minecraft:ladder"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "ladders",
+	"key": {
+		"P": "#minecraft:planks"
+	},
+	"pattern": [
+		"P P",
+		"PPP",
+		"P P"
+	],
+	"result": {
+		"count": 6,
+		"id": "minecraft:ladder"
+	}
 }

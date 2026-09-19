@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "acacia_fence_gates",
-    "key": {
-        "P": "minecraft:acacia_planks"
-    },
-    "pattern": [
-        "PPP",
-        " P "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:acacia_fence_gate"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "acacia_fence_gates",
+	"key": {
+		"P": "minecraft:acacia_planks"
+	},
+	"pattern": [
+		"PPP",
+		" P "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:acacia_fence_gate"
+	}
 }

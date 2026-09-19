@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:mangrove_logs",
-    "result": {
-        "count": 1,
-        "id": "minecraft:mangrove_boat"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:mangrove_logs",
+	"result": {
+		"count": 1,
+		"id": "minecraft:mangrove_boat"
+	}
 }

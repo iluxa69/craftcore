@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "sticks",
-    "key": {
-        "L": "#minecraft:logs"
-    },
-    "pattern": [
-        "L",
-        "L"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:stick"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "sticks",
+	"key": {
+		"L": "#minecraft:logs"
+	},
+	"pattern": [
+		"L",
+		"L"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:stick"
+	}
 }

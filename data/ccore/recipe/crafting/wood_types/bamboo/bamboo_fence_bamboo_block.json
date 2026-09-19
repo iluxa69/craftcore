@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "bamboo_fence",
-    "key": {
-        "B": "#minecraft:bamboo_blocks"
-    },
-    "pattern": [
-        "BBB",
-        "B B"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:bamboo_fence"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "bamboo_fence",
+	"key": {
+		"B": "#minecraft:bamboo_blocks"
+	},
+	"pattern": [
+		"BBB",
+		"B B"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:bamboo_fence"
+	}
 }

@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "bamboo_slab",
-    "key": {
-        "#": "#minecraft:bamboo_blocks"
-    },
-    "pattern": [
-        "###"
-    ],
-    "result": {
-        "count": 12,
-        "id": "minecraft:bamboo_slab"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "bamboo_slab",
+	"key": {
+		"#": "#minecraft:bamboo_blocks"
+	},
+	"pattern": [
+		"###"
+	],
+	"result": {
+		"count": 12,
+		"id": "minecraft:bamboo_slab"
+	}
 }

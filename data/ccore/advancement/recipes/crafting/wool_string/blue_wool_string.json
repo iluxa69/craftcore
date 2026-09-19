@@ -1,25 +1,25 @@
 {
-    "parent": "minecraft:recipes/root",
-    "criteria": {
-        "has_item": {
-            "conditions": {
-                "items": [
-                    {
-                        "items": "minecraft:blue_dye"
-                    }
-                ]
-            },
-            "trigger": "minecraft:inventory_changed"
-        }
-    },
-    "requirements": [
-        [
-            "has_item"
-        ]
-    ],
-    "rewards": {
-        "recipes": [
-            "ccore:crafting/wool_string/blue_wool_string"
-        ]
-    }
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_item": {
+			"conditions": {
+				"items": [
+					{
+						"items": "minecraft:blue_dye"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"requirements": [
+		[
+			"has_item"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"ccore:crafting/wool_string/blue_wool_string"
+		]
+	}
 }

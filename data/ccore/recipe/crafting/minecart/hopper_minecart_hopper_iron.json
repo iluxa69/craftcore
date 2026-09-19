@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "hopper_minecarts",
-    "key": {
-        "H": "minecraft:hopper",
-        "I": "minecraft:iron_ingot"
-    },
-    "pattern": [
-        "IHI",
-        "III"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:hopper_minecart"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "hopper_minecarts",
+	"key": {
+		"H": "minecraft:hopper",
+		"I": "minecraft:iron_ingot"
+	},
+	"pattern": [
+		"IHI",
+		"III"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:hopper_minecart"
+	}
 }

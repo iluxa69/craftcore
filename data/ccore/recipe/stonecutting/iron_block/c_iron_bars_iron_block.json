@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:iron_block",
-    "result": {
-        "count": 24,
-        "id": "minecraft:iron_bars"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:iron_block",
+	"result": {
+		"count": 24,
+		"id": "minecraft:iron_bars"
+	}
 }

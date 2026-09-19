@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:cherry_logs",
-    "result": {
-        "count": 4,
-        "id": "minecraft:cherry_fence"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:cherry_logs",
+	"result": {
+		"count": 4,
+		"id": "minecraft:cherry_fence"
+	}
 }

@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "crimson_fence",
-    "key": {
-        "L": "#minecraft:crimson_stems"
-    },
-    "pattern": [
-        "LLL",
-        "L L"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:crimson_fence"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "crimson_fence",
+	"key": {
+		"L": "#minecraft:crimson_stems"
+	},
+	"pattern": [
+		"LLL",
+		"L L"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:crimson_fence"
+	}
 }

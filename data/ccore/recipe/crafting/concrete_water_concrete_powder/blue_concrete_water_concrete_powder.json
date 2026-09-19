@@ -1,22 +1,22 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "ccore_item_condition": "blue_concrete_powder",
-    "category": "building",
-    "group": "concrete",
-    "ingredients": [
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder",
-        "minecraft:water_bucket",
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder",
-        "minecraft:blue_concrete_powder"
-    ],
-    "result": {
-        "count": 8,
-        "id": "minecraft:blue_concrete"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"ccore_item_condition": "blue_concrete_powder",
+	"category": "building",
+	"group": "concrete",
+	"ingredients": [
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder",
+		"minecraft:water_bucket",
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder",
+		"minecraft:blue_concrete_powder"
+	],
+	"result": {
+		"count": 8,
+		"id": "minecraft:blue_concrete"
+	}
 }

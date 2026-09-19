@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "stone_pickaxes",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:stone_tool_materials"
-    },
-    "pattern": [
-        "XXX",
-        "   ",
-        " # "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:stone_pickaxe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "stone_pickaxes",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:stone_tool_materials"
+	},
+	"pattern": [
+		"XXX",
+		"   ",
+		" # "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:stone_pickaxe"
+	}
 }

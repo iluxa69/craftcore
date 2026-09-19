@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "building",
-    "group": "crimson_slab",
-    "key": {
-        "#": "#minecraft:crimson_stems"
-    },
-    "pattern": [
-        "###"
-    ],
-    "result": {
-        "count": 24,
-        "id": "minecraft:crimson_slab"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "building",
+	"group": "crimson_slab",
+	"key": {
+		"#": "#minecraft:crimson_stems"
+	},
+	"pattern": [
+		"###"
+	],
+	"result": {
+		"count": 24,
+		"id": "minecraft:crimson_slab"
+	}
 }

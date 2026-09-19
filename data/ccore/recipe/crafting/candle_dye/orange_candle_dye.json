@@ -1,20 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "candle_dye",
-    "key": {
-        "H": "minecraft:honeycomb",
-        "S": "minecraft:string",
-        "D": "minecraft:orange_dye"
-    },
-    "pattern": [
-        "S",
-        "H",
-        "D"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:orange_candle"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "candle_dye",
+	"key": {
+		"H": "minecraft:honeycomb",
+		"S": "minecraft:string",
+		"D": "minecraft:orange_dye"
+	},
+	"pattern": [
+		"S",
+		"H",
+		"D"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:orange_candle"
+	}
 }

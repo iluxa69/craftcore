@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "composters",
-    "key": {
-        "#": "#minecraft:bamboo_blocks"
-    },
-    "pattern": [
-        "# #",
-        "# #",
-        "###"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:composter"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "composters",
+	"key": {
+		"#": "#minecraft:bamboo_blocks"
+	},
+	"pattern": [
+		"# #",
+		"# #",
+		"###"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:composter"
+	}
 }

@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#minecraft:logs",
-    "result": {
-        "count": 8,
-        "id": "minecraft:stick"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#minecraft:logs",
+	"result": {
+		"count": 8,
+		"id": "minecraft:stick"
+	}
 }

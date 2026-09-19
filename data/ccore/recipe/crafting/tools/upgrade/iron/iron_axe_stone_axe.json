@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "iron_axes",
-    "key": {
-        "A": "minecraft:stone_axe",
-        "M": "#minecraft:iron_tool_materials"
-    },
-    "pattern": [
-        "MM",
-        "M ",
-        " A"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:iron_axe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "iron_axes",
+	"key": {
+		"A": "minecraft:stone_axe",
+		"M": "#minecraft:iron_tool_materials"
+	},
+	"pattern": [
+		"MM",
+		"M ",
+		" A"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:iron_axe"
+	}
 }

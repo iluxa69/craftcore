@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:glass",
-    "result": {
-        "count": 1,
-        "id": "minecraft:glass_bottle"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:glass",
+	"result": {
+		"count": 1,
+		"id": "minecraft:glass_bottle"
+	}
 }

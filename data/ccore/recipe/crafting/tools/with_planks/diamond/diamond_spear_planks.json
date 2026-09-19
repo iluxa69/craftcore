@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "diamond_spears",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:diamond_tool_materials"
-    },
-    "pattern": [
-        "  X",
-        "   ",
-        "#  "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:diamond_spear"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "diamond_spears",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:diamond_tool_materials"
+	},
+	"pattern": [
+		"  X",
+		"   ",
+		"#  "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:diamond_spear"
+	}
 }

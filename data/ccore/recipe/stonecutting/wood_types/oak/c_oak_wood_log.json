@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:oak_log",
-    "result": {
-        "count": 1,
-        "id": "minecraft:oak_wood"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:oak_log",
+	"result": {
+		"count": 1,
+		"id": "minecraft:oak_wood"
+	}
 }

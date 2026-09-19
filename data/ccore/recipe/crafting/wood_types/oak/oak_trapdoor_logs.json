@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "oak_trapdoors",
-    "key": {
-        "#": "#minecraft:oak_logs"
-    },
-    "pattern": [
-        "###",
-        "###"
-    ],
-    "result": {
-        "count": 16,
-        "id": "minecraft:oak_trapdoor"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "oak_trapdoors",
+	"key": {
+		"#": "#minecraft:oak_logs"
+	},
+	"pattern": [
+		"###",
+		"###"
+	],
+	"result": {
+		"count": 16,
+		"id": "minecraft:oak_trapdoor"
+	}
 }

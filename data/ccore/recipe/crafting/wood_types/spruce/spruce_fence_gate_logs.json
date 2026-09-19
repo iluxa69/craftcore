@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "redstone",
-    "group": "spruce_fence_gates",
-    "key": {
-        "L": "#minecraft:spruce_logs"
-    },
-    "pattern": [
-        "LLL",
-        " L "
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:spruce_fence_gate"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "redstone",
+	"group": "spruce_fence_gates",
+	"key": {
+		"L": "#minecraft:spruce_logs"
+	},
+	"pattern": [
+		"LLL",
+		" L "
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:spruce_fence_gate"
+	}
 }

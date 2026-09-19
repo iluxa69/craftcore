@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "iron_pickaxes",
-    "key": {
-        "#": "#minecraft:planks",
-        "X": "#minecraft:iron_tool_materials"
-    },
-    "pattern": [
-        "XXX",
-        "   ",
-        " # "
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:iron_pickaxe"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "iron_pickaxes",
+	"key": {
+		"#": "#minecraft:planks",
+		"X": "#minecraft:iron_tool_materials"
+	},
+	"pattern": [
+		"XXX",
+		"   ",
+		" # "
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:iron_pickaxe"
+	}
 }

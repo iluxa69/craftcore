@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "stone_swords",
-    "key": {
-        "S": "minecraft:wooden_sword",
-        "M": "#minecraft:stone_tool_materials"
-    },
-    "pattern": [
-        "M",
-        "M",
-        "S"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:stone_sword"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "stone_swords",
+	"key": {
+		"S": "minecraft:wooden_sword",
+		"M": "#minecraft:stone_tool_materials"
+	},
+	"pattern": [
+		"M",
+		"M",
+		"S"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:stone_sword"
+	}
 }

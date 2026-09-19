@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "equipment",
-    "group": "copper_shovels",
-    "key": {
-        "S": "minecraft:wooden_shovel",
-        "M": "#minecraft:copper_tool_materials"
-    },
-    "pattern": [
-        "M",
-        " ",
-        "S"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:copper_shovel"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "equipment",
+	"group": "copper_shovels",
+	"key": {
+		"S": "minecraft:wooden_shovel",
+		"M": "#minecraft:copper_tool_materials"
+	},
+	"pattern": [
+		"M",
+		" ",
+		"S"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:copper_shovel"
+	}
 }

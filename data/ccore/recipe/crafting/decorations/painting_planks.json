@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "show_notification": false,
-    "category": "misc",
-    "group": "paintings",
-    "ingredients": [
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "#minecraft:planks",
-        "#minecraft:wool"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:painting"
-    }
+	"type": "minecraft:crafting_shapeless",
+	"show_notification": false,
+	"category": "misc",
+	"group": "paintings",
+	"ingredients": [
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:planks",
+		"#minecraft:wool"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:painting"
+	}
 }

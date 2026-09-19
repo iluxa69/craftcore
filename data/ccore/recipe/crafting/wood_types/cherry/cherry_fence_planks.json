@@ -1,17 +1,17 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "show_notification": false,
-    "category": "misc",
-    "group": "cherry_fence",
-    "key": {
-        "P": "minecraft:cherry_planks"
-    },
-    "pattern": [
-        "PPP",
-        "P P"
-    ],
-    "result": {
-        "count": 4,
-        "id": "minecraft:cherry_fence"
-    }
+	"type": "minecraft:crafting_shaped",
+	"show_notification": false,
+	"category": "misc",
+	"group": "cherry_fence",
+	"key": {
+		"P": "minecraft:cherry_planks"
+	},
+	"pattern": [
+		"PPP",
+		"P P"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:cherry_fence"
+	}
 }

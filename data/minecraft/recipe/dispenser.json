@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "redstone",
-    "group": "dispensers",
-    "key": {
-        "S": "#ccore:stone_crafting_redstone",
-        "R": "minecraft:redstone",
-        "X": "#ccore:bows"
-    },
-    "pattern": [
-        "SSS",
-        "SXS",
-        "SRS"
-    ],
-    "result": {
-        "count": 1,
-        "id": "minecraft:dispenser"
-    }
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"group": "dispensers",
+	"key": {
+		"S": "#ccore:stone_crafting_redstone",
+		"R": "minecraft:redstone",
+		"X": "#ccore:bows"
+	},
+	"pattern": [
+		"SSS",
+		"SXS",
+		"SRS"
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:dispenser"
+	}
 }

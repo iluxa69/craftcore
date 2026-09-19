@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "minecraft:copper_block",
-    "result": {
-        "count": 16,
-        "id": "minecraft:copper_chain"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "minecraft:copper_block",
+	"result": {
+		"count": 16,
+		"id": "minecraft:copper_chain"
+	}
 }

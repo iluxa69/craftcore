@@ -1,9 +1,9 @@
 {
-    "type": "minecraft:stonecutting",
-    "show_notification": false,
-    "ingredient": "#ccore:c_sandstones",
-    "result": {
-        "count": 1,
-        "id": "minecraft:sand"
-    }
+	"type": "minecraft:stonecutting",
+	"show_notification": false,
+	"ingredient": "#ccore:c_sandstones",
+	"result": {
+		"count": 1,
+		"id": "minecraft:sand"
+	}
 }
